@@ -1,0 +1,300 @@
+
+%[ask_item]('training': '2000')
+    ~[ask] @[item] ~[questionmark]
+    is @[item] recyclable ~[questionmark]
+    are @[item] recyclable ~[questionmark]
+~[ask]
+    Where can I recycle
+    Is it possible to recycle
+    Can you please tell me if I can recycle
+    Can you please tell me if I am able to recycle
+    Can I recycle
+~[questionmark]
+    ?
+@[item]
+    asbestos
+    asbestos fibre
+    aerosols
+    aftershave bottles
+    air fresheners
+    animal poo
+    animal waste
+    any food
+    apples
+    ash
+    aubergine
+    baby wipes
+    bacon
+    baked beans
+    banana skin
+    bananas
+    bangers
+    battered fish
+    beans
+    Bedding
+    beer
+    beer bottles
+    beer cans
+    berries
+    biscuits
+    biscuits wrappers
+    blankets
+    Blanks of wood
+    bleach bottles
+    boards
+    Body sprays
+    boiled rice
+    bones
+    books
+    bottle tops
+    Bottles
+    bows
+    branches
+    bread
+    brochures
+    broccoli  stems
+    brown bread
+    brown paper
+    bubble wrap
+    building material
+    buildingsite material
+    buns
+    burgers
+    Butter tub
+    cable tie
+    cake
+    can
+    cans
+    catalogues
+    Car batteries
+    cardboard
+    Cardboard box
+    card packaging
+    carrier bags
+    carrots 
+    cauliflower
+    cement
+    Ceramic pots
+    cereal boxes
+    cheese
+    chicken
+    chicken bones
+    chicken carcass
+    chicken stock
+    chicken wings
+    chinese rice
+    Christmas cards
+    christmas toy packaging
+    christmas tree lights
+    clay pots
+    Cling film
+    clingfilm
+    clothing
+    coconut
+    cod
+    coffee beans
+    coffee granules
+    coffee grounds
+    coffee jars
+    cold ashes
+    compost
+    construction material
+    cooking oil
+    courgette
+    crisps wrappers
+    dairy products
+    dead bird
+    Dead dog
+    dead pet
+    dead plants
+    dead rat
+    deceased animal
+    deodorant
+    detergent bottles
+    diesel
+    disposable cups
+    disposable paper plates
+    disposable plates
+    dog faeces
+    dog poop
+    drink cans
+    drinks
+    eggs
+    electrical tools
+    envelopes
+    faeces
+    fired rice
+    fish
+    fish bones
+    fish cakes
+    fish fingers
+    flour
+    flyers
+    foil
+    food
+    food cans
+    food packaging
+    food scrapings
+    food trays
+    food waste
+    fruit
+    fruit bowl
+    Garden soil 
+    glass sauce
+    glass trays
+    glass vases
+    glasses
+    glitter paper
+    glittery paper
+    grapes
+    grass
+    grease
+    greeting cards
+    ground coffee
+    hair dryer
+    Hair spray
+    hardback books
+    household cleaner bottles
+    heniz beans
+    hospital waste
+    irons
+    jam
+    jar lids
+    junk mail
+    ketchup bottles
+    kettle
+    kidney beans
+    Kitchen paper
+    Kitchen Roll
+    Kitchen Roll ends
+    kitchen roll sheets
+    lamb
+    lamb shank
+    laptops
+    leaves
+    left over food
+    lemonade
+    lemonade cans
+    loaf of bread
+    magazines
+    meat
+    meat bones
+    meat trays
+    medicine
+    medicine bottles
+    melon
+    metal bottle tops
+    metal jar lids
+    metalic wrapping paper
+    Microwaves
+    milk
+    milk cartons
+    mince
+    nappies
+    nappy
+    needles
+    Newspaper
+    notepad
+    office paper
+    olive oil
+    open paint tins
+    oranges
+    orange skin
+    pampers
+    pan bread
+    paper
+    paperback books
+    paper plates
+    pasta
+    pastries
+    pears
+    penne pasta
+    perfume
+    petrol
+    phone books
+    pineapple skin
+    plant containers
+    plants
+    Plasma screen
+    plastic
+    plastic bag
+    plastic bags
+    plastic bottles
+    plastic carrier bags
+    plastic jar lids
+    plastic ties
+    Plastic trays
+    poo
+    pork
+    pork chops
+    prawns
+    radio
+    raw fish
+    raw salmon
+    raw veg
+    ribeye
+    ribs
+    rice
+    roast beef
+    salmon
+    sauce bottles
+    sausages
+    shampoo
+    shampoo bottle
+    shopping bags
+    shopping basg
+    shoes
+    shrubbery soil
+    silverside
+    sirloin
+    small branches
+    spagetti
+    spagetti hoops
+    spirit bottles
+    Steak
+    sticky tape
+    supermarket bags
+    sweets wrapper
+    tablets
+    takeaway packaging
+    takeaways trays
+    tea
+    tea bags
+    Television
+    tin foil
+    tin of paint
+    Tins of food
+    tissue paper
+    toaster
+    Toilet paper
+    Toilet roll
+    Toilet Roll ends
+    toy box
+    Toy packages
+    toy packaging
+    toy packaging card
+    toy packaging
+    tray bakes
+    trays
+    tuna
+    turkey foil
+    turkey tray
+    twigs
+    veg
+    vegetables
+    wall paper
+    washing up liquid
+    water
+    weeds
+    white bread
+    white rice
+    wine
+    wine bottles
+    wipes
+    wooden floors
+    wooden furniture
+    wooden palettes
+    worksite material
+    wrapping paper
+    writing paper
+    yoghurt

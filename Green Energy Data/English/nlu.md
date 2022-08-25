@@ -1,0 +1,439 @@
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- good morning
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there
+- I said, helllllloooooO!!!!
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- jojojo
+- hey dude
+- hello it is me again
+- what up
+- hi there
+- hi
+- jop
+- hi friend
+- hi there it's me
+- good evening
+- good morning
+- good afternoon
+
+## intent:goodbye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye #slay
+- tlak to you later
+- ciao
+- Bye bye
+- then bye
+- tschÃ¼ssikowski
+- bye!
+
+## intent:affirm
+- yes
+- of course
+- sure
+- yeah
+- ok
+- cool
+- go for it
+- yep
+- yep, will do thank you
+- I'm sure I will!
+- oh awesome!
+- Yes
+- accept
+- I accept
+- i accept
+- ok i accept
+- I changed my mind. I want to accept it
+- ok cool
+- alright
+- i will!
+- ok, I behave now
+- yop
+- oki doki
+- yes please
+- yes please!
+- jo
+- yep if i have to
+- amayzing
+- confirm
+- nice
+- coolio
+- definitely yes without a doubt
+- yas
+- yup
+- perfect
+- sure thing
+- absolutely
+- Oh, ok
+- Sure
+- hm, i'd like that
+- ja
+- sure!
+- yes i accept
+- Sweet
+- amazing!
+- how nice!
+- cool!
+- yay
+- yes accept please
+- great
+- oh cool
+- yes
+- fine
+
+## intent:deny
+- no
+- definitely not
+- never
+- absolutely not
+- i don't think so
+- i'm afraid not
+- no sir
+- no ma'am
+- no way
+- no sorry
+- No, not really.
+- nah not for me
+- nah
+- no and no again
+- no go
+- no thanks
+- decline
+- deny
+- i decline
+- never mind
+- nevermind
+- I'm not giving you my email address
+- no I haven't decided yet if I want to sign up
+- I don't want to give it to you
+- I'm not going to give it to you
+- no i don't accept
+- no!!!!
+- no you did it wrong
+- no i can't
+- i'm not sure
+- NEIN
+- nein
+- not really
+- i guess it means - no
+- i don't want to
+- i don't want either of those
+- nah thanks
+- neither of these
+
+## intent:thankyou
+- thanks!
+- thank you
+- thx
+- thanks very much
+- ok, thanks
+- ok, thank you
+- ok, great
+
+## intent:contact_municipality
+- How can I contact a municipality?
+- Whats the email contact of the municipality?
+- I would like to contact the municipality
+
+## intent:leave_feedback
+- I would like to leave a feedback
+- I would like to leave my feedback
+- Can I leave a feedback?
+
+## intent:make_an_appointment
+- I would like to make an appointment with an advisor
+- Can I talk with an advisor
+- I would like to meet an advisor
+- I want to meet an advisor
+- I want to schedule a meeting with an advisor
+
+## intent:inform_municipality
+
+## intent:introduce_support_system
+- [ROT deductions](support)
+- [state investment aid](support)
+- [rot](support)
+- [investment support](support)
+
+## intent:introduce_swedish_language
+- Vem byggd dig?
+- Kan jag fråga namnet på de personer som designade dig?
+- Får jag fråga vem som uppfann dig?
+- Namnge personen som byggde dig.
+- Berätta namnet på personen som skapade dig.
+- På vilket sätt skapades du?
+- Med vilken metod var du formad?
+- Berätta namnet på individen som skapade dig.
+- Kan du förklara hur du skapades?
+- Ahoy kompis, hur mår du?
+- Skepp ohoj kamrat, hur är läget?
+- Mår du bra?
+- Hur länge har du levt?
+- Hur många ljus var det på din senaste födelsedagstårta?
+- Hur länge har du funnits?
+- Hur många år har du varit vid liv?
+- Hur länge har du ockuperat jorden?
+- Är du en chattbot?
+- Är du bot?
+- Hej, är du bot?
+- Är du en bot
+- du är en bot eller människa?
+- Är du en människa
+- är du mänsklig
+- ok, jag vet att jag förvirrade dig att det var en människa! :)
+- Känner du några andra språk?
+- Kan du några andra språk?
+- Känner du till andra språk?
+- Kan du andra språk?
+- Kan jag fråga dig något om vädret
+- Får jag fråga dig något om vädret
+- Kan vi förvänta oss åskväder?
+- Har du bra väder?
+- Hur är vädret idag?
+- Hur är vädret?
+- Hur du hjälpa mig?
+- Jag behöver hjälp
+- Jag behöver lite hjälp
+- Vilka är mina alternativ?
+- Vad kan du göra?
+- Vilket land är du från?
+- Vilket land föddes du i?
+- Vad är din födelseplats?
+- Vad är ditt arv?
+- Vad är ditt ursprung?
+- Jag vill veta vem du är
+- Så vem är du ?
+- Berätta mer om dig
+- Vad heter du ?
+- Vem är du ?
+- Hur mycket kostar solpaneler?
+- Vad kostar installationen av solpaneler?
+- Vad kostar det att installera solpaneler?
+- Hur många år tar det för solpaneler att löna sig?
+- Vad är lönen för solpaneler?
+- Hur mycket får man ut av att använda solpaneler?
+- vad är återbetalningstid?
+- hur lång är återbetalningtiden?
+- Finns det något ekonomiskt stöd tillgängligt för installation av solpaneler?
+- Hur mycket ekonomisk hjälp kan jag få om jag vill installera solpaneler?
+- Kan jag få några pengar för installation av solpaneler?
+- Kan jag få pengar för installation av solpaneler?
+- Kan du tjäna pengar på en solpanelinstallation?
+- Är det möjligt att sälja el från mina solpaneler?
+- Går det att sälja elen från mina solpaneler?
+- Är det lagligt att sälja el?
+- Ska jag köpa solpaneler nu?
+- Borde jag köpa solpaneler nu?
+- Ska jag köpa solpaneler senare?
+- Borde jag köpa solpaneler senare?
+- Vilket elföretag rekommenderar du att sälja el till?
+- Vilket företag ska jag välja om jag vill sälja el?
+- Jag vill sälja el, vilket företag ska jag sälja till?
+- Vilket företag betalar bäst för el?
+- Vilka ska man kontakta för att få offert?
+- Kan du berätta var jag kan köpa solpaneler?
+- snälla berätta för mig närmaste solpanelbutik
+- vänligen berätta var närmaste solpanelbutik ligger
+- snälla berätta var jag ska köpa solpaneler
+- Finns det ett företag där jag bor?
+- Jag vill hitta ett företag att köpa solpaneler från
+- Jag har elbil. Ska jag köpa solpaneler?
+- Är solpaneler bra för elbilar?
+- Är solpaneler bra för laddning av elbilar?
+- Vilken riktning är bäst?
+- Vilken riktning ska jag välja för solpaneler?
+- Hur produceras solenergi?
+- vad är solenergi?
+- Beskriv solenergi.
+- Hur fungerar solpaneler?
+- Vad är en solpanel?
+- Jag vill veta vad solpanel är?
+- Fungerar solpaneler på molniga dagar?
+- Kan jag producera solenergi på molnig dag?
+- Hur underhåller jag solpanelinstallation?
+- Hur ser solpanelers underhållning ut?
+- När är bästa tiden på året att installera solceller?
+- Vilken månad är bäst att montera solceller?
+- Vilken månad är bäst att montera solpaneler?
+- När är bästa tiden att installera solceller?
+- Kan jag se solkartan?
+- Hur mycket lyser solen i sverige?
+- Passar mitt hus för solel?
+- Är vinter bra för solpaneler?
+- Fungerar solpaneler på vintern?
+- Vilken riktning är bäst för installation av solpaneler?
+- Hur ska jag installera solpaneler?
+- berätta för mig vilken riktning jag ska installera solpaneler
+- Mitt tak är västerut, är det vettigt att installera solceller?
+- Är det en bra idé att installera paneler på tak mot väster?
+- Fungerar solceller på tak som vetter mot söder?
+- Mitt tak är riktat mot väster, funkar solceller då?
+- Var ska man installera solpaneler?
+- I vilken yta ska jag installera solpaneler?
+- På vilken yta ska jag installera solpaneler?
+- vilken riktning är mer behändig?
+- vad är den bästa riktningen?
+- vilken riktning rekommenderar du?
+- kan du föreslå en riktning?
+- Är det nödvändigt att ha bygglov innan installation av solpaneler?
+- Behöver jag bygglov?
+- Kräver solpaneler bygglov?
+- Behöver jag tillstånd?
+- Är det möjligt att lagra energi från solceller?
+- Kan du lagra energin?
+- Hur många solpaneler ska jag installera?
+- Hur många solpaneler rekommenderas att installera?
+- Hur många solpaneler behöver jag?
+- När är solpaneler en dålig idé?
+- Var fungerar inte solpaneler?
+- Fungerar solpaneler på mitt hus?
+- Vilka solpaneler rekommenderar du inte?
+- Vad ska jag tänka på när jag jämför solpaneler?
+- Hur väljer jag solpaneler?
+- Rekommenderar du att installera integrerade solpaneler?
+- Vilka är fördelarna med integrerade solpaneler?
+- Vad är skillnaden mellan integrerade solpaneler och ytmonterade solpaneler?
+- Finns det några skillnader mellan ytmonterade solpaneler och integrerade solpaneler?
+- Måste jag göra något innan installationen?
+- Är det mycket papper innan solpaneler installeras?
+- Krävs mycket pappersarbete innan solpaneler kan installeras?
+- Måste jag ansöka om tillstånd innan installationen?
+- kan du förklara för mig vad [batterier](storage) är till för
+- kan du förklara mig vad [batterier](storage) används till
+- Berätta mer om [nät](storage)
+- Lär mig om [nät] (storage)
+- kan du förklara för mig vad är [nät](storage) för
+- Vad är en växelriktare?
+- Berätta mer om en växelriktare
+- Hallå
+- Hej
+- Hej bot
+- tjohej
+- Hej bot
+- tjoho
+- Hallå
+- hejhej
+- God morgon
+- hejsvejs
+- Hej igen
+- hej då
+- godnatt
+- måste avsluta nu
+- vi ses
+- toodle-oo
+- hejdå
+- hej hej
+- måste gå
+- farväl
+- bra
+- ge järnet
+- kör hårt
+- Japp
+- japp, kommer att tacka dig
+- japp, det ska jag, tack
+- Det är jag säker på!
+- Det kommer jag säkert!
+- Oh häftigt!
+- Ja
+- aldrig
+- Nej fårlåt
+- Nej tyvärr
+- Nej inte direkt.
+- nej inte får mig
+- nej inte för mig
+- nej
+- tack
+- tack så mycket
+- OK tack
+- Vad är kommunens e-postadress?
+- Jag vill kontakta kommunen
+- Jag har feedback jag vill lämna
+- Kan jag lämna feedback?
+- Kan jag få prata med en rådgivare
+- Jag skulle vilja träffa en rådgivare
+- Kan du snälla informera om ursprungsgarantier?
+- Berätta om ursprungsgarantier
+- Informera mig om ursprungsgarantier
+- Jag behöver veta om ursprungsgarantier
+- Jag undrar vad ursprungsgarantier är
+- Hur mycket yta behöver jag för att installera solpaneler?
+- Jag vill veta mer om nödvändig yta för installation av solceller.
+- Kan du beskriva elcertifikat?
+- Vad är historien med elcertifikat?
+- Kan du snälla informera om elcertifikat?
+- Berätta om elcertifikat
+- Hur länge fungerar solpaneler?
+- Efter hur lång tid slutar solpaneler att fungera?
+- Hur lång tid tar det för solpaneler att sluta fungera?
+- Hur lång livslängd har solpaneler?
+- Hur påverkar solpaneler miljön?
+- Finns det några miljöfördelar med solpaneler?
+- Gör jag några förbättringar av miljön om jag installerar solpaneler?
+- Bidrar jag till miljöförbättringar om jag installerar solpaneler?
+- Är solpaneler hållbara?

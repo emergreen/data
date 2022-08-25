@@ -1,0 +1,12 @@
+## intent:out_of_scope
+- Är det värt det även om jag inte har någon elbil?
+- Är det värt att ha solpaneler om jag inte har en elbil?
+- Vad är ursprungsgarantier?
+- Kan du berätta något om ursprungsgarantier?
+- Kan du beskriva ursprungsgarantier?
+- Vad är historien med ursprungsgarantier?
+- Kan du snälla informera om ursprungsgarantier?
+- Berätta om ursprungsgarantier
+- Informera mig om ursprungsgarantier
+- Jag behöver veta om ursprungsgarantier
+- Jag undrar vad ursprungsgarantier är

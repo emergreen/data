@@ -1,0 +1,69 @@
+
+%[ask_bin_collection]('training': '2000')
+    When is my @[color] bin going to be collected ~[questionmark]
+    When will the @[color] bin be collected ~[questionmark]
+    When my @[color] bin will be collected ~[questionmark]
+    When is collection day for my @[color] bin?
+    When is collection day for my @[color]?
+    When are the @[color] bins going to be collected?
+    what day is my @[color] bin collected?
+    what day is my @[color] bin lifted?
+    what day does my @[color] bin get emptied?
+    when should i put out my @[color] bin?
+    
+~[questionmark]
+    ?    
+@[color]
+    grey
+    black wheelie
+    black wheeled
+    black wheely
+    black
+    grey wheelie
+    grey wheeled
+    grey wheely
+    rubbish
+    general waste
+    main
+    residual
+    recycling
+    blue wheely
+    blue wheelie 
+    blue wheeled
+    blue wheeley
+    dry recycling
+    blue
+    mdr
+    mixed dry recycling
+    loose 
+    food caddy
+    food
+    small brown
+    outside caddy
+    kerbside caddy
+    23L
+    food caddie
+    wee brown
+    food waste
+    food waste caddy
+    large brown
+    big brown
+    brown
+    mixed food and garden
+    comingled
+    240L brown
+    mixed food and garden waste
+    garden waste
+    green waste
+    garden
+    organic waste
+    compost
+    biodegradable
+    brown wheely
+    brown wheeley
+    brown wheelie
+    brown wheeled
+    green wheely
+    green wheeley
+    green wheelie
+    green wheeled

@@ -1,0 +1,554 @@
+## intent:greet
+- Hej
+- Hallå
+- Hej
+- Hej bot
+- tjohej
+- Hej bot
+- tjoho
+- Hallå
+- hejhej
+- God morgon
+- hejsvejs
+- Hej igen
+- Hej på er
+- hej herre
+- hej gode herre
+- hej vän!
+- hej kompis!
+- Hallå där
+- hälsningar
+- var hälsad
+- Hej allihopa
+- hallå allihopa
+- hej är någon där
+- hallå, är någon där
+- hej robot
+- hallo
+- halloj
+- heeey
+- heeej
+- Hej hej
+- Hallå
+- hej
+- Tjena tjena
+- Hej hej
+- Hej där
+- Hallå där
+- Hej
+- Hallå
+- yo
+- Hej
+- Hej?
+- Hallå?
+- hej bot!
+- Hej kompis
+- god morgon
+- hej
+- heej
+- hej såta pojke
+- hej sötnos
+- yoo
+- Hallå där
+- hejihi
+- heejhejhej
+- Hej älskling
+- helvete
+- hallååå
+- helloooo
+- hallåååå
+- heyo
+- hejsan
+- ayyyy whaddup
+- eyyyy läget
+- Hallå?
+- Hallo
+- heya
+- tjena
+- hej bot
+- hur
+- hejsan
+- Hellllooooooo
+- Hallllååååååå
+- vad händer
+- Hej
+- Hallå där
+- Jag sa, helllllloooooO !!!!
+- Jag sa, hallllllåååååÅ !!!!
+- Heya
+- Tjena
+- Vad händer med min bot
+- Läget botten min
+- hej
+- heeej
+heyho
+halloj
+- hej, låt oss prata
+- hej, jag vill prata
+- hej, låt oss prata
+- hej jag vill prata
+- jojojo
+- Hej kompis
+- Hej polarn
+- hej det är jag igen
+- läget
+- Hallå där
+- Hej
+- jop
+- Hej vän
+- Hej kompis
+- hej det är jag
+- god kväll
+- god morgon
+- god eftermiddag
+
+## intent:goodbye
+- adjå
+- hej då
+- godnatt
+- adjå
+- hej då
+- godnatt
+- måste avsluta nu
+- vi ses
+- toodle-oo
+- hejdå
+- hej hej
+- måste gå
+- farväl
+- vi ses senare
+- vi hörs senare
+- Hej då får nu
+- Hej då tills vi hörs igen
+- Hejdå
+- hejdå var trevligt att prata med dig
+- hej då, det var trevligt att prata med dig
+- hej udo
+- hej då udo
+- hejdå bot
+- hejdå bot
+- k byyye #slay
+- ok heeej #slay
+- pratar med dig senare
+- vi hörs sen
+- ciao
+- Hejdå
+- hejdå då
+- tschÃ¼ssikowski
+- Hejdå!
+
+## intent:affirm
+- ja
+- självklart
+- Säker
+- visst
+- ja
+- ok
+- Häftigt
+- bra
+- ge järnet
+- kör hårt
+- Japp
+- japp, kommer att tacka dig
+- japp, det ska jag, tack
+- Det är jag säker på!
+- Det kommer jag säkert!
+- Oh häftigt!
+- Ja
+- acceptera
+- Jag accepterar
+- jag accepterar
+- ok jag accepterar
+- Jag ändrade mig. Jag vill acceptera det
+- okej bra
+- OK
+- jag ska!
+- ok, jag beter mig nu
+- japp
+- okej
+- Ja tack
+- Ja tack!
+- jo
+- ja om jag måste
+- fårbluffar
+- fantastiskt
+- bekräfta
+- trevlig
+- coolio
+- definitivt ja utan tvekan
+- ja
+- Japp
+- perfekt
+- säker sak
+- givetvis
+- absolut
+- Okej
+- Säker
+- Visst
+- hm, jag skulle vilja ha det
+- hm, det skulle jag vilja
+- ja
+- Säker!
+- visst!
+- Ja jag accepterar
+- Såta
+- Schyst
+- Fantastisk!
+- vad trevligt!
+- Häftigt!
+- Jippie
+- ja acceptera tack
+- bra
+- Åh coolt
+- ja
+- bra
+
+
+## intent:deny
+- Nej
+- definitivt inte
+- aldrig
+- absolut inte
+- Jag tror inte det
+- tyvärr inte
+- ingen sir
+- nej herrn
+- Nej frun
+- aldrig
+- Nej fårlåt
+- Nej tyvärr
+- Nej inte direkt.
+- nej inte får mig
+- nej inte för mig
+- nej
+- nej och nej igen
+- nej och åter nej
+- Nej gå
+- Nej så blir det inte
+- Nej tack
+- Absolut nej
+- nedgång
+- avböj
+- fårneka
+- neka
+- jag avbåjer
+- jag avböjer
+- Glåm det
+- Det var inget
+- Glåm det
+- Det var inget
+- Jag ger dig inte min e-postadress
+- Jag ger dig inte ut min e-postadress
+- nej Jag har inte bestämt mig ännu om jag vill anmäla mig
+- Jag vill inte ge dig det
+- Jag tänker inte ge dig det
+- nej jag accepterar inte
+- Nej!!!!
+- nej du gjorde det fel
+- nej du gjorde fel
+- nej jag kan inte
+- jag är inte säker
+- NEIN
+- nein
+- inte riktigt
+- jag antar att det betyder - nej
+- Jag vill inte
+- Jag vill inte ha någon av dessa
+- nej tack
+- nä tack
+- ingen av dessa
+
+## intent:thankyou
+- tack!
+- tack
+- tack
+- tack så mycket
+- OK tack
+- okej, tack
+- OK bra
+
+## intent:contact_municipality
+- Hur kan jag kontakta en kommun?
+- Vad är kommunens e-postkontakt?
+- Vad är kommunens e-postadress?
+- Jag vill kontakta kommunen
+
+
+
+## intent:leave_feedback
+- Jag skulle vilja lämna feedback
+- Jag har feedback jag vill lämna
+- Kan jag lämna feedback?
+
+
+## intent:make_an_appointment
+- Jag skulle vilja boka en tid med en rådgivare
+- Kan jag prata med en rådgivare
+- Kan jag få prata med en rådgivare
+- Jag skulle vilja träffa en rådgivare
+- Jag vill träffa en rådgivare
+- Jag vill boka ett måte med en rådgivare
+- Jag vill boka ett möte med en rådgivare
+
+## intent:inform_municipality
+
+## intent:introduce_support_system
+- [ROT-avdrag] (support)
+- [statligt investeringsståd] (ståd)
+- [rot] (ståd)
+- [investeringsståd] (ståd)
+
+## intent:introduce_english_language
+- Tell me the best joke you know.
+- What's a good joke?
+- Will you tell me a joke.
+- Would you share a joke with me.
+- Great to meet you.
+- Happy to get to see you.
+- Hi Sara, just wanted to test you
+- Hi, glad to meet you.
+- Hi, nice to meet you!
+- I am glad I met you.
+- whats your name?
+- who ARE YO
+- who am i speaking with
+- who am i talking to
+- who ar eyou
+- who are u?
+- Are you from around here?
+- Around where are you from?
+- Do you know where you come from?
+- From where did you come?
+- So where are you from
+- What area are you from?
+- What citizenship do you
+- talk to me!
+- tell me something you can do
+- tell me what's your skill
+- um what now
+- what are all the things you understand?
+- what are the options?
+- is it sunny
+- is the sun out where you are?
+- is the sun out where zou are?
+- it is cold
+- temperature?
+- the weather today
+- do you speak any other languages?
+- how many languages are you fluent in?
+- how many languages do you know?
+- tell me some languages you know?
+- Rara, are you a human?
+- you are bot or human?
+- are you human
+- ok, i know i confused you there being a human! :)
+- you are human or bot
+- Are you human?
+- Are you a chat bot?
+- Are you the bot?
+- Hi there, are you the bot?
+- are you a BOT
+- How old will you be on your next birthday?
+- Tell me your day, month and year of birth.
+- What is your age?
+- What is your birthdate?
+- Ahoy matey how are you?
+- Are you ok?
+- Do you feel good?
+- Do you have a great day?
+- HI Sara, what are you up to?
+- Hi Sara! How are you?
+- How are You?
+- By what method were you fashioned?
+- Can you explain how you were created?
+- Can you give me an idea as to how you were created?
+- Can you say how you were constructed?
+- Do you know how you were built?
+- Do you know how you were made?
+- How did they build you?
+- By whom were you built?
+- Can I ask the name of the people who designed you?
+- Do you know who built you?
+- Do you know who made you?
+- May I ask who invented you?
+- Name the person who built you.
+- Tell me the name of the individual who created you.
+- How much do solar panels cost?
+- What is the cost for solar panel installation?
+- How long does it take for solar panels to pay off?
+- How much time does it take for solar panels to pay off?
+- How many years does it take for solar panels to pay off?
+- What is the pay off for solar panels?
+- What financial support is available for the installation of solar cells?
+- Is there any financial support available for solar panel installation?
+- How much financial help can I get if I want to install solar panels?
+- Can you make money from a solar panel installation?
+- Is it possible to sell electricity from my solar panels?
+- Should I wait before I buy solar panels?
+- Will the prize on solar panels go up?
+- Which electricity company should I sell to?
+- Which electricity company do you recommend to sell electricity to?
+- If I want to sell electricity, which company should I choose?
+- Where can I buy solar panels?
+- Can I bui solarpanels online?
+- Is there a company where I leave?
+- I want to find a company to buy solar panels from
+- I have electric car. Should I buy solar panels?
+- Are solar panels good for electric cars?
+- Can I use solar panels to charge an electric car?
+- Which direction shall I choose for solar panels?
+- How do I choose direction of solar panels?
+- How is the solar energy produced?
+- What is solar energy?
+- Describe solar energy
+- What is a solar panel?
+- I want to know what solar panel is
+- What are solar cells?
+- Do solar panels work on cloudy days?
+- Can I produce solar energy on the cloudy day?
+- How to take care of solar panels?
+- How do I maintain solar panels?
+- When is the best time of year to install solar cells?
+- Which month is best to mount solar cells?
+- Which month is best to install solar panels?
+- When is the best time to install solar cells?
+- How many kWh can solar panels give me?
+- Do solar panels work on my house?
+- How much electricity can I produce?
+- How much energy do solar cells generate?
+- Is winter ok for solar panels?
+- Do solar panels work in winter?
+- Types of inverter
+- What are the types of inverter?
+- I want to buy solar panels
+- Is buying a solar panels a good idea?
+- Investing in solar panels, is it a good idea?
+- What are double-sided solar panels?
+- How good are double-sided solar panles?
+- What can you say about double-sided solar panels?
+- Types of solar cells
+- What types of solar panels are there?
+- are solar cells flammable?
+- Is there a danger of fire from solar panels?
+- I want to contact an energy advisor
+- Can I ring an energy advisor?
+- I want to talk with an advisor
+- calculate my repayment time
+- what is repayment time?
+- Repayment time
+- Who is an advisor?
+- Tell me about local energy advisor
+- I want to know who local energy advisor is
+- Can you show me common queries?
+- Do you have a list of common queries?
+- Show me common queries, please?
+- Do solar panels need to be cleaned?
+- Should I clean solar panels?
+- What is an inverter
+- Tell me more about an inverter
+- can you explain me what are [batteries](storage) for
+- can you explain me what are [batteries](storage) used for
+- Tell me more about [grid](storage) 
+- Teach me about [grid](storage) 
+- What steps need to be taken before installation of solar panels?
+- Can I install solar panels without notifying anyone?
+- What do I need to do before installation?
+- Do I have to do anything before installation?
+- Should I install an integrated solar panel roof?
+- Do you recommend to install an integrated solar panel roof?
+- Do you recommend to install integrated solar panels?
+- What are the advantages with integrated solar panels?
+- Which solar panels do you not recommend?
+- What should I think of when comparing soar panels?
+- How do I choose solar panels?
+- What should I think of when chosing solar panels?
+- Where does solar panels not work?
+- Will solar panels work on my house?
+- Will solar panels work where I live?
+- Does solar panels work good on my house?
+- How many solar panels are recommended to install?
+- How many solar panels do I need?
+- How large installation is appropriate?
+- Can you store energy from solar cells?
+- Can you store solar cell energy?
+- Is it possible to store solar energy?
+- Is it necessary to have a building permit before installation of solar panels?
+- Do I need a building permit?
+- Does solar panels require a building permit?
+- what is the best direction?
+- what direction do you recommend?
+- can you suggest a direction?
+- please tell me what is the best direction
+- Where to install sollar panels?
+- In which surface should I install solar panels?
+- Where is the best place to install solar panels?
+- Do solar cells work on roofs facing south?
+- My roof is facing west, do solar cells work then?
+- My roof is facing east, do solar cells work then?
+- My roof is to the west, does it make sense to install solar cells?
+- Is it a good idea to install panels on roofs to the west?
+- In which direction should solar panels be installed?
+- Does it matter in which direction solar panels are installed?
+- Which direction is the best for installation of solar panels?
+- Hi
+- Hey
+- Hi bot
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- I'm sure I will!
+- oh awesome!
+- Yes
+- accept
+- I accept
+- i accept
+- no
+- definitely not
+- never
+- absolutely not
+- i don't think so
+- i'm afraid not
+- no sir
+- no ma'am
+- no way
+- thanks!
+- thank you
+- thx
+- thanks very much
+- ok, thanks
+- ok, thank you
+- ok, great
+- How can I contact a municipality?
+- Whats the email contact of the municipality?
+- I would like to contact the municipality
+- I would like to leave a feedback
+- I would like to leave my feedback
+- Can I leave a feedback?
+- I would like to make an appointment with an advisor
+- Can I talk with an advisor
+- I would like to meet an advisor
+- What is the story with guarantees of origin?
+- Can you please inform about guarantees of origin?
+- Tell me about guarantees of origin
+- Inform me about guarantees of origin
+- I need to know about guarantees of origin
+- How much surface do I need to install solar panels?
+- I want to know more about necessary surface for solar cell installation.
+- Can you describe electricity certificates?
+- What is the story with electricity certificates?
+- Can you please inform about electricity certificates?
+- Tell me about electricity certificates
+- How long lifetime do solar panels have?
+- What is the life time of solar cells?
+- How much do solar panels last?
+- Are solar panels life long?
+- Are solar panels enviromentally friendly?
+- How does solar panels affect the environment?
+- Are there any environmental benefits with solar panels?
+- Do I make any improvement to the environment if I install solar panels?

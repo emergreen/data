@@ -1,0 +1,653 @@
+## intent:ask_bin_content
+- What goes into the [grey](color) bin?
+- What goes into the [black wheelie](color) bin?
+- What goes into the [black wheeled](color) bin?
+- What goes into the [black wheely](color) bin?
+- What goes into the [black](color) bin?
+- What goes into the [grey wheelie](color) bin?
+- What goes into the [grey wheeled](color) bin?
+- What goes into the [grey wheely](color) bin?
+- What goes into the [rubbish](color) bin?
+- What goes into the [general waste](color) bin?
+- What goes into the [main](color) bin?
+- What goes into the [residual](color) bin?
+- What goes into the [recycling](color) bin?
+- What goes into the [blue wheely](color) bin?
+- What goes into the [blue wheelie](color) bin?
+- What goes into the [blue wheeled](color) bin?
+- What goes into the [blue wheeley](color) bin?
+- What goes into the [dry recycling](color) bin?
+- What goes into the [blue](color) bin?
+- What goes into the [mdr](color) bin?
+- What goes into the [mixed dry recycling](color) bin?
+- What goes into the [loose](color) bin?
+- What goes into the [food caddy](color) bin?
+- What goes into the [food](color) bin?
+- What goes into the [small brown](color) bin?
+- What goes into the [outside caddy](color) bin?
+- What goes into the [kerbside caddy](color) bin?
+- What goes into the [23L](color) bin?
+- What goes into the [food caddie](color) bin?
+- What goes into the [wee brown](color) bin?
+- What goes into the [food waste](color) bin?
+- What goes into the [food waste caddy](color) bin?
+- What goes into the [large brown](color) bin?
+- What goes into the [big brown](color) bin?
+- What goes into the [brown](color) bin?
+- What goes into the [mixed food and garden](color) bin?
+- What goes into the [comingled](color) bin?
+- What goes into the [240L brown](color) bin?
+- What goes into the [mixed food and garden waste](color) bin?
+- What goes into the [garden waste](color) bin?
+- What goes into the [green waste](color) bin?
+- What goes into the [garden](color) bin?
+- What goes into the [organic waste](color) bin?
+- What goes into the [compost](color) bin?
+- What goes into the [biodegradable](color) bin?
+- What goes into the [brown wheely](color) bin?
+- What goes into the [brown wheeley](color) bin?
+- What goes into the [brown wheelie](color) bin?
+- What goes into the [brown wheeled](color) bin?
+- What goes into the [green wheely](color) bin?
+- What goes into the [green wheeley](color) bin?
+- What goes into the [green wheelie](color) bin?
+- What goes into the [green wheeled](color) bin?
+- What goes into my [grey](color) bin?
+- What goes into my [black wheelie](color) bin?
+- What goes into my [black wheeled](color) bin?
+- What goes into my [black wheely](color) bin?
+- What goes into my [black](color) bin?
+- What goes into my [grey wheelie](color) bin?
+- What goes into my [grey wheeled](color) bin?
+- What goes into my [grey wheely](color) bin?
+- What goes into my [rubbish](color) bin?
+- What goes into my [general waste](color) bin?
+- What goes into my [main](color) bin?
+- What goes into my [residual](color) bin?
+- What goes into my [recycling](color) bin?
+- What goes into my [blue wheely](color) bin?
+- What goes into my [blue wheelie](color) bin?
+- What goes into my [blue wheeled](color) bin?
+- What goes into my [blue wheeley](color) bin?
+- What goes into my [dry recycling](color) bin?
+- What goes into my [blue](color) bin?
+- What goes into my [mdr](color) bin?
+- What goes into my [mixed dry recycling](color) bin?
+- What goes into my [loose](color) bin?
+- What goes into my [food caddy](color) bin?
+- What goes into my [food](color) bin?
+- What goes into my [small brown](color) bin?
+- What goes into my [outside caddy](color) bin?
+- What goes into my [kerbside caddy](color) bin?
+- What goes into my [23L](color) bin?
+- What goes into my [food caddie](color) bin?
+- What goes into my [wee brown](color) bin?
+- What goes into my [food waste](color) bin?
+- What goes into my [food waste caddy](color) bin?
+- What goes into my [large brown](color) bin?
+- What goes into my [big brown](color) bin?
+- What goes into my [brown](color) bin?
+- What goes into my [mixed food and garden](color) bin?
+- What goes into my [comingled](color) bin?
+- What goes into my [240L brown](color) bin?
+- What goes into my [mixed food and garden waste](color) bin?
+- What goes into my [garden waste](color) bin?
+- What goes into my [green waste](color) bin?
+- What goes into my [garden](color) bin?
+- What goes into my [organic waste](color) bin?
+- What goes into my [compost](color) bin?
+- What goes into my [biodegradable](color) bin?
+- What goes into my [brown wheely](color) bin?
+- What goes into my [brown wheeley](color) bin?
+- What goes into my [brown wheelie](color) bin?
+- What goes into my [brown wheeled](color) bin?
+- What goes into my [green wheely](color) bin?
+- What goes into my [green wheeley](color) bin?
+- What goes into my [green wheelie](color) bin?
+- What goes into my [green wheeled](color) bin?
+- What can I put in the [grey](color) bin?
+- What can I put in the [black wheelie](color) bin?
+- What can I put in the [black wheeled](color) bin?
+- What can I put in the [black wheely](color) bin?
+- What can I put in the [black](color) bin?
+- What can I put in the [grey wheelie](color) bin?
+- What can I put in the [grey wheeled](color) bin?
+- What can I put in the [grey wheely](color) bin?
+- What can I put in the [rubbish](color) bin?
+- What can I put in the [general waste](color) bin?
+- What can I put in the [main](color) bin?
+- What can I put in the [residual](color) bin?
+- What can I put in the [recycling](color) bin?
+- What can I put in the [blue wheely](color) bin?
+- What can I put in the [blue wheelie](color) bin?
+- What can I put in the [blue wheeled](color) bin?
+- What can I put in the [blue wheeley](color) bin?
+- What can I put in the [dry recycling](color) bin?
+- What can I put in the [blue](color) bin?
+- What can I put in the [mdr](color) bin?
+- What can I put in the [mixed dry recycling](color) bin?
+- What can I put in the [loose](color) bin?
+- What can I put in the [food caddy](color) bin?
+- What can I put in the [food](color) bin?
+- What can I put in the [small brown](color) bin?
+- What can I put in the [outside caddy](color) bin?
+- What can I put in the [kerbside caddy](color) bin?
+- What can I put in the [23L](color) bin?
+- What can I put in the [food caddie](color) bin?
+- What can I put in the [wee brown](color) bin?
+- What can I put in the [food waste](color) bin?
+- What can I put in the [food waste caddy](color) bin?
+- What can I put in the [large brown](color) bin?
+- What can I put in the [big brown](color) bin?
+- What can I put in the [brown](color) bin?
+- What can I put in the [mixed food and garden](color) bin?
+- What can I put in the [comingled](color) bin?
+- What can I put in the [240L brown](color) bin?
+- What can I put in the [mixed food and garden waste](color) bin?
+- What can I put in the [garden waste](color) bin?
+- What can I put in the [green waste](color) bin?
+- What can I put in the [garden](color) bin?
+- What can I put in the [organic waste](color) bin?
+- What can I put in the [compost](color) bin?
+- What can I put in the [biodegradable](color) bin?
+- What can I put in the [brown wheely](color) bin?
+- What can I put in the [brown wheeley](color) bin?
+- What can I put in the [brown wheelie](color) bin?
+- What can I put in the [brown wheeled](color) bin?
+- What can I put in the [green wheely](color) bin?
+- What can I put in the [green wheeley](color) bin?
+- What can I put in the [green wheelie](color) bin?
+- What can I put in the [green wheeled](color) bin?
+- What things can I put in the [grey](color) bin?
+- What things can I put in the [black wheelie](color) bin?
+- What things can I put in the [black wheeled](color) bin?
+- What things can I put in the [black wheely](color) bin?
+- What things can I put in the [black](color) bin?
+- What things can I put in the [grey wheelie](color) bin?
+- What things can I put in the [grey wheeled](color) bin?
+- What things can I put in the [grey wheely](color) bin?
+- What things can I put in the [rubbish](color) bin?
+- What things can I put in the [general waste](color) bin?
+- What things can I put in the [main](color) bin?
+- What things can I put in the [residual](color) bin?
+- What things can I put in the [recycling](color) bin?
+- What things can I put in the [blue wheely](color) bin?
+- What things can I put in the [blue wheelie](color) bin?
+- What things can I put in the [blue wheeled](color) bin?
+- What things can I put in the [blue wheeley](color) bin?
+- What things can I put in the [dry recycling](color) bin?
+- What things can I put in the [blue](color) bin?
+- What things can I put in the [mdr](color) bin?
+- What things can I put in the [mixed dry recycling](color) bin?
+- What things can I put in the [loose](color) bin?
+- What things can I put in the [food caddy](color) bin?
+- What things can I put in the [food](color) bin?
+- What things can I put in the [small brown](color) bin?
+- What things can I put in the [outside caddy](color) bin?
+- What things can I put in the [kerbside caddy](color) bin?
+- What things can I put in the [23L](color) bin?
+- What things can I put in the [food caddie](color) bin?
+- What things can I put in the [wee brown](color) bin?
+- What things can I put in the [food waste](color) bin?
+- What things can I put in the [food waste caddy](color) bin?
+- What things can I put in the [large brown](color) bin?
+- What things can I put in the [big brown](color) bin?
+- What things can I put in the [brown](color) bin?
+- What things can I put in the [mixed food and garden](color) bin?
+- What things can I put in the [comingled](color) bin?
+- What things can I put in the [240L brown](color) bin?
+- What things can I put in the [mixed food and garden waste](color) bin?
+- What things can I put in the [garden waste](color) bin?
+- What things can I put in the [green waste](color) bin?
+- What things can I put in the [garden](color) bin?
+- What things can I put in the [organic waste](color) bin?
+- What things can I put in the [compost](color) bin?
+- What things can I put in the [biodegradable](color) bin?
+- What things can I put in the [brown wheely](color) bin?
+- What things can I put in the [brown wheeley](color) bin?
+- What things can I put in the [brown wheelie](color) bin?
+- What things can I put in the [brown wheeled](color) bin?
+- What things can I put in the [green wheely](color) bin?
+- What things can I put in the [green wheeley](color) bin?
+- What things can I put in the [green wheelie](color) bin?
+- What things can I put in the [green wheeled](color) bin?
+- What rubbish can I put in the [grey](color) bin?
+- What rubbish can I put in the [black wheelie](color) bin?
+- What rubbish can I put in the [black wheeled](color) bin?
+- What rubbish can I put in the [black wheely](color) bin?
+- What rubbish can I put in the [black](color) bin?
+- What rubbish can I put in the [grey wheelie](color) bin?
+- What rubbish can I put in the [grey wheeled](color) bin?
+- What rubbish can I put in the [grey wheely](color) bin?
+- What rubbish can I put in the [rubbish](color) bin?
+- What rubbish can I put in the [general waste](color) bin?
+- What rubbish can I put in the [main](color) bin?
+- What rubbish can I put in the [residual](color) bin?
+- What rubbish can I put in the [recycling](color) bin?
+- What rubbish can I put in the [blue wheely](color) bin?
+- What rubbish can I put in the [blue wheelie](color) bin?
+- What rubbish can I put in the [blue wheeled](color) bin?
+- What rubbish can I put in the [blue wheeley](color) bin?
+- What rubbish can I put in the [dry recycling](color) bin?
+- What rubbish can I put in the [blue](color) bin?
+- What rubbish can I put in the [mdr](color) bin?
+- What rubbish can I put in the [mixed dry recycling](color) bin?
+- What rubbish can I put in the [loose](color) bin?
+- What rubbish can I put in the [food caddy](color) bin?
+- What rubbish can I put in the [food](color) bin?
+- What rubbish can I put in the [small brown](color) bin?
+- What rubbish can I put in the [outside caddy](color) bin?
+- What rubbish can I put in the [kerbside caddy](color) bin?
+- What rubbish can I put in the [23L](color) bin?
+- What rubbish can I put in the [food caddie](color) bin?
+- What rubbish can I put in the [wee brown](color) bin?
+- What rubbish can I put in the [food waste](color) bin?
+- What rubbish can I put in the [food waste caddy](color) bin?
+- What rubbish can I put in the [large brown](color) bin?
+- What rubbish can I put in the [big brown](color) bin?
+- What rubbish can I put in the [brown](color) bin?
+- What rubbish can I put in the [mixed food and garden](color) bin?
+- What rubbish can I put in the [comingled](color) bin?
+- What rubbish can I put in the [240L brown](color) bin?
+- What rubbish can I put in the [mixed food and garden waste](color) bin?
+- What rubbish can I put in the [garden waste](color) bin?
+- What rubbish can I put in the [green waste](color) bin?
+- What rubbish can I put in the [garden](color) bin?
+- What rubbish can I put in the [organic waste](color) bin?
+- What rubbish can I put in the [compost](color) bin?
+- What rubbish can I put in the [biodegradable](color) bin?
+- What rubbish can I put in the [brown wheely](color) bin?
+- What rubbish can I put in the [brown wheeley](color) bin?
+- What rubbish can I put in the [brown wheelie](color) bin?
+- What rubbish can I put in the [brown wheeled](color) bin?
+- What rubbish can I put in the [green wheely](color) bin?
+- What rubbish can I put in the [green wheeley](color) bin?
+- What rubbish can I put in the [green wheelie](color) bin?
+- What rubbish can I put in the [green wheeled](color) bin?
+- What rubbish can I put in my [grey](color) bin?
+- What rubbish can I put in my [black wheelie](color) bin?
+- What rubbish can I put in my [black wheeled](color) bin?
+- What rubbish can I put in my [black wheely](color) bin?
+- What rubbish can I put in my [black](color) bin?
+- What rubbish can I put in my [grey wheelie](color) bin?
+- What rubbish can I put in my [grey wheeled](color) bin?
+- What rubbish can I put in my [grey wheely](color) bin?
+- What rubbish can I put in my [rubbish](color) bin?
+- What rubbish can I put in my [general waste](color) bin?
+- What rubbish can I put in my [main](color) bin?
+- What rubbish can I put in my [residual](color) bin?
+- What rubbish can I put in my [recycling](color) bin?
+- What rubbish can I put in my [blue wheely](color) bin?
+- What rubbish can I put in my [blue wheelie](color) bin?
+- What rubbish can I put in my [blue wheeled](color) bin?
+- What rubbish can I put in my [blue wheeley](color) bin?
+- What rubbish can I put in my [dry recycling](color) bin?
+- What rubbish can I put in my [blue](color) bin?
+- What rubbish can I put in my [mdr](color) bin?
+- What rubbish can I put in my [mixed dry recycling](color) bin?
+- What rubbish can I put in my [loose](color) bin?
+- What rubbish can I put in my [food caddy](color) bin?
+- What rubbish can I put in my [food](color) bin?
+- What rubbish can I put in my [small brown](color) bin?
+- What rubbish can I put in my [outside caddy](color) bin?
+- What rubbish can I put in my [kerbside caddy](color) bin?
+- What rubbish can I put in my [23L](color) bin?
+- What rubbish can I put in my [food caddie](color) bin?
+- What rubbish can I put in my [wee brown](color) bin?
+- What rubbish can I put in my [food waste](color) bin?
+- What rubbish can I put in my [food waste caddy](color) bin?
+- What rubbish can I put in my [large brown](color) bin?
+- What rubbish can I put in my [big brown](color) bin?
+- What rubbish can I put in my [brown](color) bin?
+- What rubbish can I put in my [mixed food and garden](color) bin?
+- What rubbish can I put in my [comingled](color) bin?
+- What rubbish can I put in my [240L brown](color) bin?
+- What rubbish can I put in my [mixed food and garden waste](color) bin?
+- What rubbish can I put in my [garden waste](color) bin?
+- What rubbish can I put in my [green waste](color) bin?
+- What rubbish can I put in my [garden](color) bin?
+- What rubbish can I put in my [organic waste](color) bin?
+- What rubbish can I put in my [compost](color) bin?
+- What rubbish can I put in my [biodegradable](color) bin?
+- What rubbish can I put in my [brown wheely](color) bin?
+- What rubbish can I put in my [brown wheeley](color) bin?
+- What rubbish can I put in my [brown wheelie](color) bin?
+- What rubbish can I put in my [brown wheeled](color) bin?
+- What rubbish can I put in my [green wheely](color) bin?
+- What rubbish can I put in my [green wheeley](color) bin?
+- What rubbish can I put in my [green wheelie](color) bin?
+- What rubbish can I put in my [green wheeled](color) bin?
+- What materials go in the [grey](color) bin?
+- What materials go in the [black wheelie](color) bin?
+- What materials go in the [black wheeled](color) bin?
+- What materials go in the [black wheely](color) bin?
+- What materials go in the [black](color) bin?
+- What materials go in the [grey wheelie](color) bin?
+- What materials go in the [grey wheeled](color) bin?
+- What materials go in the [grey wheely](color) bin?
+- What materials go in the [rubbish](color) bin?
+- What materials go in the [general waste](color) bin?
+- What materials go in the [main](color) bin?
+- What materials go in the [residual](color) bin?
+- What materials go in the [recycling](color) bin?
+- What materials go in the [blue wheely](color) bin?
+- What materials go in the [blue wheelie](color) bin?
+- What materials go in the [blue wheeled](color) bin?
+- What materials go in the [blue wheeley](color) bin?
+- What materials go in the [dry recycling](color) bin?
+- What materials go in the [blue](color) bin?
+- What materials go in the [mdr](color) bin?
+- What materials go in the [mixed dry recycling](color) bin?
+- What materials go in the [loose](color) bin?
+- What materials go in the [food caddy](color) bin?
+- What materials go in the [food](color) bin?
+- What materials go in the [small brown](color) bin?
+- What materials go in the [outside caddy](color) bin?
+- What materials go in the [kerbside caddy](color) bin?
+- What materials go in the [23L](color) bin?
+- What materials go in the [food caddie](color) bin?
+- What materials go in the [wee brown](color) bin?
+- What materials go in the [food waste](color) bin?
+- What materials go in the [food waste caddy](color) bin?
+- What materials go in the [large brown](color) bin?
+- What materials go in the [big brown](color) bin?
+- What materials go in the [brown](color) bin?
+- What materials go in the [mixed food and garden](color) bin?
+- What materials go in the [comingled](color) bin?
+- What materials go in the [240L brown](color) bin?
+- What materials go in the [mixed food and garden waste](color) bin?
+- What materials go in the [garden waste](color) bin?
+- What materials go in the [green waste](color) bin?
+- What materials go in the [garden](color) bin?
+- What materials go in the [organic waste](color) bin?
+- What materials go in the [compost](color) bin?
+- What materials go in the [biodegradable](color) bin?
+- What materials go in the [brown wheely](color) bin?
+- What materials go in the [brown wheeley](color) bin?
+- What materials go in the [brown wheelie](color) bin?
+- What materials go in the [brown wheeled](color) bin?
+- What materials go in the [green wheely](color) bin?
+- What materials go in the [green wheeley](color) bin?
+- What materials go in the [green wheelie](color) bin?
+- What materials go in the [green wheeled](color) bin?
+- What items go in the [grey](color) bin?
+- What items go in the [black wheelie](color) bin?
+- What items go in the [black wheeled](color) bin?
+- What items go in the [black wheely](color) bin?
+- What items go in the [black](color) bin?
+- What items go in the [grey wheelie](color) bin?
+- What items go in the [grey wheeled](color) bin?
+- What items go in the [grey wheely](color) bin?
+- What items go in the [rubbish](color) bin?
+- What items go in the [general waste](color) bin?
+- What items go in the [main](color) bin?
+- What items go in the [residual](color) bin?
+- What items go in the [recycling](color) bin?
+- What items go in the [blue wheely](color) bin?
+- What items go in the [blue wheelie](color) bin?
+- What items go in the [blue wheeled](color) bin?
+- What items go in the [blue wheeley](color) bin?
+- What items go in the [dry recycling](color) bin?
+- What items go in the [blue](color) bin?
+- What items go in the [mdr](color) bin?
+- What items go in the [mixed dry recycling](color) bin?
+- What items go in the [loose](color) bin?
+- What items go in the [food caddy](color) bin?
+- What items go in the [food](color) bin?
+- What items go in the [small brown](color) bin?
+- What items go in the [outside caddy](color) bin?
+- What items go in the [kerbside caddy](color) bin?
+- What items go in the [23L](color) bin?
+- What items go in the [food caddie](color) bin?
+- What items go in the [wee brown](color) bin?
+- What items go in the [food waste](color) bin?
+- What items go in the [food waste caddy](color) bin?
+- What items go in the [large brown](color) bin?
+- What items go in the [big brown](color) bin?
+- What items go in the [brown](color) bin?
+- What items go in the [mixed food and garden](color) bin?
+- What items go in the [comingled](color) bin?
+- What items go in the [240L brown](color) bin?
+- What items go in the [mixed food and garden waste](color) bin?
+- What items go in the [garden waste](color) bin?
+- What items go in the [green waste](color) bin?
+- What items go in the [garden](color) bin?
+- What items go in the [organic waste](color) bin?
+- What items go in the [compost](color) bin?
+- What items go in the [biodegradable](color) bin?
+- What items go in the [brown wheely](color) bin?
+- What items go in the [brown wheeley](color) bin?
+- What items go in the [brown wheelie](color) bin?
+- What items go in the [brown wheeled](color) bin?
+- What items go in the [green wheely](color) bin?
+- What items go in the [green wheeley](color) bin?
+- What items go in the [green wheelie](color) bin?
+- What items go in the [green wheeled](color) bin?
+- What items can I put in the [grey](color) bin?
+- What items can I put in the [black wheelie](color) bin?
+- What items can I put in the [black wheeled](color) bin?
+- What items can I put in the [black wheely](color) bin?
+- What items can I put in the [black](color) bin?
+- What items can I put in the [grey wheelie](color) bin?
+- What items can I put in the [grey wheeled](color) bin?
+- What items can I put in the [grey wheely](color) bin?
+- What items can I put in the [rubbish](color) bin?
+- What items can I put in the [general waste](color) bin?
+- What items can I put in the [main](color) bin?
+- What items can I put in the [residual](color) bin?
+- What items can I put in the [recycling](color) bin?
+- What items can I put in the [blue wheely](color) bin?
+- What items can I put in the [blue wheelie](color) bin?
+- What items can I put in the [blue wheeled](color) bin?
+- What items can I put in the [blue wheeley](color) bin?
+- What items can I put in the [dry recycling](color) bin?
+- What items can I put in the [blue](color) bin?
+- What items can I put in the [mdr](color) bin?
+- What items can I put in the [mixed dry recycling](color) bin?
+- What items can I put in the [loose](color) bin?
+- What items can I put in the [food caddy](color) bin?
+- What items can I put in the [food](color) bin?
+- What items can I put in the [small brown](color) bin?
+- What items can I put in the [outside caddy](color) bin?
+- What items can I put in the [kerbside caddy](color) bin?
+- What items can I put in the [23L](color) bin?
+- What items can I put in the [food caddie](color) bin?
+- What items can I put in the [wee brown](color) bin?
+- What items can I put in the [food waste](color) bin?
+- What items can I put in the [food waste caddy](color) bin?
+- What items can I put in the [large brown](color) bin?
+- What items can I put in the [big brown](color) bin?
+- What items can I put in the [brown](color) bin?
+- What items can I put in the [mixed food and garden](color) bin?
+- What items can I put in the [comingled](color) bin?
+- What items can I put in the [240L brown](color) bin?
+- What items can I put in the [mixed food and garden waste](color) bin?
+- What items can I put in the [garden waste](color) bin?
+- What items can I put in the [green waste](color) bin?
+- What items can I put in the [garden](color) bin?
+- What items can I put in the [organic waste](color) bin?
+- What items can I put in the [compost](color) bin?
+- What items can I put in the [biodegradable](color) bin?
+- What items can I put in the [brown wheely](color) bin?
+- What items can I put in the [brown wheeley](color) bin?
+- What items can I put in the [brown wheelie](color) bin?
+- What items can I put in the [brown wheeled](color) bin?
+- What items can I put in the [green wheely](color) bin?
+- What items can I put in the [green wheeley](color) bin?
+- What items can I put in the [green wheelie](color) bin?
+- What items can I put in the [green wheeled](color) bin?
+- What is my [grey](color) bin for?
+- What is my [black wheelie](color) bin for?
+- What is my [black wheeled](color) bin for?
+- What is my [black wheely](color) bin for?
+- What is my [black](color) bin for?
+- What is my [grey wheelie](color) bin for?
+- What is my [grey wheeled](color) bin for?
+- What is my [grey wheely](color) bin for?
+- What is my [rubbish](color) bin for?
+- What is my [general waste](color) bin for?
+- What is my [main](color) bin for?
+- What is my [residual](color) bin for?
+- What is my [recycling](color) bin for?
+- What is my [blue wheely](color) bin for?
+- What is my [blue wheelie](color) bin for?
+- What is my [blue wheeled](color) bin for?
+- What is my [blue wheeley](color) bin for?
+- What is my [dry recycling](color) bin for?
+- What is my [blue](color) bin for?
+- What is my [mdr](color) bin for?
+- What is my [mixed dry recycling](color) bin for?
+- What is my [loose](color) bin for?
+- What is my [food caddy](color) bin for?
+- What is my [food](color) bin for?
+- What is my [small brown](color) bin for?
+- What is my [outside caddy](color) bin for?
+- What is my [kerbside caddy](color) bin for?
+- What is my [23L](color) bin for?
+- What is my [food caddie](color) bin for?
+- What is my [wee brown](color) bin for?
+- What is my [food waste](color) bin for?
+- What is my [food waste caddy](color) bin for?
+- What is my [large brown](color) bin for?
+- What is my [big brown](color) bin for?
+- What is my [brown](color) bin for?
+- What is my [mixed food and garden](color) bin for?
+- What is my [comingled](color) bin for?
+- What is my [240L brown](color) bin for?
+- What is my [mixed food and garden waste](color) bin for?
+- What is my [garden waste](color) bin for?
+- What is my [green waste](color) bin for?
+- What is my [garden](color) bin for?
+- What is my [organic waste](color) bin for?
+- What is my [compost](color) bin for?
+- What is my [biodegradable](color) bin for?
+- What is my [brown wheely](color) bin for?
+- What is my [brown wheeley](color) bin for?
+- What is my [brown wheelie](color) bin for?
+- What is my [brown wheeled](color) bin for?
+- What is my [green wheely](color) bin for?
+- What is my [green wheeley](color) bin for?
+- What is my [green wheelie](color) bin for?
+- What is my [green wheeled](color) bin for?
+- How do I use my [grey](color) bin?
+- How do I use my [black wheelie](color) bin?
+- How do I use my [black wheeled](color) bin?
+- How do I use my [black wheely](color) bin?
+- How do I use my [black](color) bin?
+- How do I use my [grey wheelie](color) bin?
+- How do I use my [grey wheeled](color) bin?
+- How do I use my [grey wheely](color) bin?
+- How do I use my [rubbish](color) bin?
+- How do I use my [general waste](color) bin?
+- How do I use my [main](color) bin?
+- How do I use my [residual](color) bin?
+- How do I use my [recycling](color) bin?
+- How do I use my [blue wheely](color) bin?
+- How do I use my [blue wheelie](color) bin?
+- How do I use my [blue wheeled](color) bin?
+- How do I use my [blue wheeley](color) bin?
+- How do I use my [dry recycling](color) bin?
+- How do I use my [blue](color) bin?
+- How do I use my [mdr](color) bin?
+- How do I use my [mixed dry recycling](color) bin?
+- How do I use my [loose](color) bin?
+- How do I use my [food caddy](color) bin?
+- How do I use my [food](color) bin?
+- How do I use my [small brown](color) bin?
+- How do I use my [outside caddy](color) bin?
+- How do I use my [kerbside caddy](color) bin?
+- How do I use my [23L](color) bin?
+- How do I use my [food caddie](color) bin?
+- How do I use my [wee brown](color) bin?
+- How do I use my [food waste](color) bin?
+- How do I use my [food waste caddy](color) bin?
+- How do I use my [large brown](color) bin?
+- How do I use my [big brown](color) bin?
+- How do I use my [brown](color) bin?
+- How do I use my [mixed food and garden](color) bin?
+- How do I use my [comingled](color) bin?
+- How do I use my [240L brown](color) bin?
+- How do I use my [mixed food and garden waste](color) bin?
+- How do I use my [garden waste](color) bin?
+- How do I use my [green waste](color) bin?
+- How do I use my [garden](color) bin?
+- How do I use my [organic waste](color) bin?
+- How do I use my [compost](color) bin?
+- How do I use my [biodegradable](color) bin?
+- How do I use my [brown wheely](color) bin?
+- How do I use my [brown wheeley](color) bin?
+- How do I use my [brown wheelie](color) bin?
+- How do I use my [brown wheeled](color) bin?
+- How do I use my [green wheely](color) bin?
+- How do I use my [green wheeley](color) bin?
+- How do I use my [green wheelie](color) bin?
+- How do I use my [green wheeled](color) bin?
+- How do I use the [grey](color) bin?
+- How do I use the [black wheelie](color) bin?
+- How do I use the [black wheeled](color) bin?
+- How do I use the [black wheely](color) bin?
+- How do I use the [black](color) bin?
+- How do I use the [grey wheelie](color) bin?
+- How do I use the [grey wheeled](color) bin?
+- How do I use the [grey wheely](color) bin?
+- How do I use the [rubbish](color) bin?
+- How do I use the [general waste](color) bin?
+- How do I use the [main](color) bin?
+- How do I use the [residual](color) bin?
+- How do I use the [recycling](color) bin?
+- How do I use the [blue wheely](color) bin?
+- How do I use the [blue wheelie](color) bin?
+- How do I use the [blue wheeled](color) bin?
+- How do I use the [blue wheeley](color) bin?
+- How do I use the [dry recycling](color) bin?
+- How do I use the [blue](color) bin?
+- How do I use the [mdr](color) bin?
+- How do I use the [mixed dry recycling](color) bin?
+- How do I use the [loose](color) bin?
+- How do I use the [food caddy](color) bin?
+- How do I use the [food](color) bin?
+- How do I use the [small brown](color) bin?
+- How do I use the [outside caddy](color) bin?
+- How do I use the [kerbside caddy](color) bin?
+- How do I use the [23L](color) bin?
+- How do I use the [food caddie](color) bin?
+- How do I use the [wee brown](color) bin?
+- How do I use the [food waste](color) bin?
+- How do I use the [food waste caddy](color) bin?
+- How do I use the [large brown](color) bin?
+- How do I use the [big brown](color) bin?
+- How do I use the [brown](color) bin?
+- How do I use the [mixed food and garden](color) bin?
+- How do I use the [comingled](color) bin?
+- How do I use the [240L brown](color) bin?
+- How do I use the [mixed food and garden waste](color) bin?
+- How do I use the [garden waste](color) bin?
+- How do I use the [green waste](color) bin?
+- How do I use the [garden](color) bin?
+- How do I use the [organic waste](color) bin?
+- How do I use the [compost](color) bin?
+- How do I use the [biodegradable](color) bin?
+- How do I use the [brown wheely](color) bin?
+- How do I use the [brown wheeley](color) bin?
+- How do I use the [brown wheelie](color) bin?
+- How do I use the [brown wheeled](color) bin?
+- How do I use the [green wheely](color) bin?
+- How do I use the [green wheeley](color) bin?
+- How do I use the [green wheelie](color) bin?
+- How do I use the [green wheeled](color) bin?
+
+
+
+## intent:ask_things_recycle
+- What can I recycle?
+- What can be recycled?
+- What is it possible to recycle?
+- What should be recycled?
+- What things can we recycled?
+- I want to recycle
+- What items can be recycled?
+- What should O recycle?
+- Can you please tell me what i should recycle?
+- Please tell me some items I can recycle
+- Name some items tht can be recycled
+- Please list some items that can be recycled

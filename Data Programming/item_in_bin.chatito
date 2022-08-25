@@ -1,0 +1,818 @@
+%[ask_item]('training': '8000')
+    Can I put @[item] into the @[color] bin?
+    Should I put @[item] into the @[color] bin?
+    May i put @[item] in the @[color] bin?
+    is it ok to put @[item?] in the @[color] bin?
+    is it possible to put @[item] in the @[color] bin?
+    can @[item] go in the @[color] bin?
+    are @[item] allowed in the @[color] bin?
+    is @[item] allowed in the @[color] bin?
+    should @[item] go in the @[color] bin?
+~[questionmark]
+    ?    
+@[color]
+    grey
+    black wheelie
+    black wheeled
+    black wheely
+    black
+    grey wheelie
+    grey wheeled
+    grey wheely
+    rubbish
+    general waste
+    main
+    residual
+    recycling
+    blue wheely
+    blue wheelie 
+    blue wheeled
+    blue wheeley
+    dry recycling
+    blue
+    mdr
+    mixed dry recycling
+    loose 
+    food caddy
+    food
+    small brown
+    outside caddy
+    kerbside caddy
+    23L
+    food caddie
+    wee brown
+    food waste
+    food waste caddy
+    large brown
+    big brown
+    brown
+    mixed food and garden
+    comingled
+    240L brown
+    mixed food and garden waste
+    garden waste
+    green waste
+    garden
+    organic waste
+    compost
+    biodegradable
+    brown wheely
+    brown wheeley
+    brown wheelie
+    brown wheeled
+    green wheely
+    green wheeley
+    green wheelie
+    green wheeled
+@[item]
+    tin foil
+    bacofoil
+    polylina
+    cesar
+    sheba
+    tinfoil
+    kitchen foil
+    foil trays
+    pie tray
+    quiche tray
+    underfelt foam
+    polystyrene
+    styrofoam
+    carrier bags
+    plastic bags
+    grocery bag
+    shopping bag
+    plastic bags
+    carrier bags
+    underfelt mineral
+    christmas decorations
+    tree lights
+    christmas tree 
+    artificial
+    crockery
+    china
+    pottery
+    ceramics
+    cereal box inner packaging
+    gravy granules container 
+    card
+    gravy tub
+    gravy box
+    gravy packaging
+    gravy granules container
+    pringles tube
+    crisp box.
+    crisp tubes
+    earrings
+    necklace
+    ring
+    bracelet
+    costume jewellery
+    jewellery
+    insulation pipe sleeve
+    lagging
+    insulation 
+    pipe sleeve
+    duvet
+    bed blanket
+    insulation 
+    quilt
+    lino
+    vinyl
+    lino 
+    vinyl
+    nappies (disposable)
+    photographs
+    photos
+    plates
+    cups
+    saucers
+    dinner sets
+    plates
+    cups
+    saucers
+    razors
+    wilkinson sword
+    gillette
+    bic
+    razors(disposable)
+    tiles (wall & floor)
+    takeaway container polysterene
+    polystyrene takeaway container
+    baby wipe packets
+    johnsons
+    pampers
+    wipes
+    huggies
+    huggies wipes
+    johnson wipe
+    cleansing wipes
+    baby wipe packet
+    confectionary wrappers
+    mars
+    snickers
+    m&ms
+    biscuit wrapper
+    caramel
+    sweety wrappers
+    chocolate wrapper
+    bar of chocolate packaging
+    clingfilm
+    plastic film
+    light bulbs normal
+    light bulbs standard
+    cleaning sponge
+    sponge
+    brush
+    hairbrush
+    bottle top foil
+    foil top
+    milk top
+    film cover
+    film top
+    bottle top foil & film
+    clay pots
+    water filters (fridges)
+    filters for water
+    fridge filters
+    jug filter
+    filter for water jug
+    water filters (jugs)
+    bubble wrap
+    toothpaste packaging
+    tube of toothpaste
+    toothpaste tube
+    ziplock bag
+    zip lock
+    sandwich
+    freezer bags
+    box of tablets
+    bottle of medicine
+    medicine packets
+    christmas decorations
+    baubles
+    baubles (christmas decorations)
+    christmas decorations
+    tinsel
+    tinsel (christmas decorations)
+    christmas wreaths (plastic)
+    used cigarettes
+    cigarette butts
+    plant (artificial)
+    plastic straws
+    straws
+    broken umbrella
+    brolly
+    umbrella (broken)
+    mirror
+    tumbler
+    glass
+    wine glass
+    prosecco glass
+    beer glass
+    glass jug
+    drinking glasses
+    glass cups
+    crisp bags
+    doritos
+    walkers
+    tayto
+    mccoys
+    christmas decorations
+    wreaths
+    christmas wreaths (real)
+    rubber bands
+    elastic bands
+    rug
+    mat
+    carpet
+    tracing paper
+    grease proof paper
+    baking paper
+    baking sheets
+    cut up paper
+    shredded paper
+    used tissues
+    wet tissues
+    soiled tissues
+    used kitchen roll
+    used kitchen paper
+    wet kitchen roll
+    soiled kitchen roll
+    wet kitchen paper
+    soiled kitchen paper
+    used napkins
+    wet napkins
+    soiled napkins
+    dirty tissues
+    dirty kitchen roll
+    dirty kitchen paper
+    dirty napkins.
+    kitchen roll or napkins
+    plant cuttings
+    prunings
+    garden cuttings
+    tree cuttings
+    branches
+    leavees
+    dead flowers
+    cuttings & prunings
+    grass cuttings
+    grass
+    hedge trimmings
+    shrubbery
+    hedge cuttings
+    fallen leaves
+    leaves
+    flowers
+    plants
+    petals
+    bouquet
+    garden plants
+    plants (real)
+    muck
+    garden muck
+    garden soil
+    soil
+    real christmas tree
+    real xmas tree
+    natural christmas tree
+    fruit and vegetable peelings
+    seeds and cores
+    apples
+    oranges
+    pears
+    bananas
+    leftovers
+    peelings
+    seeds
+    pips
+    cores
+    fruit & vegetables
+    egg shells
+    fish
+    salmon
+    cod
+    prawns
+    meat
+    bones
+    raw food scraps
+    meat bones
+    raw food
+    leftover raw food
+    meat & bones (raw & cooked)
+    cooked leftoovers
+    cooked scraps
+    cooked food scraps
+    herbal teabags
+    green teabags
+    tea bags
+    milk
+    cheese
+    yogurts
+    diary products
+    buns
+    wraps
+    baps
+    bread
+    traybakes
+    cakes
+    pastries
+    fire ash
+    fire waste
+    ash
+    paper plates
+    disposable plates (paper)
+    trees
+    tree trunk
+    batteries
+    battery
+    aaa batteries
+    aa batteries
+    duracell
+    ever ready
+    batteries (household)
+    engine oil
+    castrol
+    car oil diesel
+    tv remote
+    remote for tv
+    remote control
+    battery for car
+    car battery
+    batteries (car)
+    fluorescent tubes
+    rubble
+    hardcore
+    brick
+    blocks
+    mortar
+    concrete
+    gravel
+    mobile phones
+    rubble
+    hardcore
+    iphone
+    nokia phone
+    motorola phone
+    samsung phone
+    photo frames metal
+    metal
+    iron
+    steel
+    aluminium
+    brass
+    metals
+    smopothing iron
+    bicycles
+    bike
+    copper pipe
+    hairdrier
+    straighteners
+    hairdryer
+    electrical tools
+    drill
+    sander
+    chop saw
+    router
+    black and decker
+    toaster
+    kettle
+    glasses
+    spectacles eye glasses
+    glasses
+    spectacles
+    monitors
+    flat screen television
+    led screen crt screen
+    plasma screen
+    television
+    televsions
+    timber
+    wood
+    window frames wooden
+    timber window
+    window frames wood
+    car tyre
+    bicycle tyre & inner tubes
+    tyres & inner tubes
+    vegetable oil
+    cooking oil
+    olive oil
+    ink cartridges 
+    printer
+    ink of toner catridges
+    printer cartridges
+    printer
+    copier toners
+    pc
+    laptop
+    tablet
+    computers
+    plastic plant pots
+    bathroom tub
+    bath tub
+    bath
+    wooden bed
+    wooden bunks
+    bunk beds
+    wooden frame
+    beds (wood)
+    beds (metals)
+    cd
+    dvd covers
+    cutlery (knives
+    forks
+    spoons)
+    cultery (knives
+    forks
+    spoons)
+    tile grout
+    grout
+    hand tools (hammer
+    chisel
+    saw)
+    hangers plastic
+    hangers wood
+    wire hangers
+    hangers metal
+    some students or families may be happy to pick up a set of good pans second-hand
+    pots & pans
+    toilet
+    sink
+    toilets
+    toys
+    lunch box
+    tupperware
+    wheelie bins (broken)
+    lunch box 
+    tupperware
+    plastic buckets
+    plastic crates
+    road cone (plastic)
+    plastic toys
+    plastic garden furniture
+    matresses
+    mattresses
+    plastic drum
+    oil tanks
+    home heating oil
+    audio tapes
+    glass panes
+    windows
+    videos tapes
+    clothes
+    jumpers
+    trousers
+    socks
+    t-shirts
+    shirts
+    sheets
+    curtains
+    net curtains
+    drapes
+    venitian blinds
+    low energy light bulbs
+    low energy bulbs
+    belts
+    shoes
+    boots
+    sandals trainers
+    high heels
+    blankets
+    quilts
+    cds
+    dvds
+    disc
+    cds
+    dvds
+    radio
+    cd player
+    cooker hob
+    combi oven
+    range
+    aga
+    cooker
+    fridge
+    fridge freezer
+    american fridge
+    double fridge
+    fridges
+    freezer
+    chest freezer
+    freezers
+    furniture
+    photo frames wood
+    disposable cups (plastic)
+    aerosols
+    shaving foam
+    palmolive
+    erasmic
+    nivea wilkinson sword
+    glade
+    febreeze air freshener
+    airwick
+    ambi pur
+    air freshener
+    de-icer
+    autoquest
+    carplan
+    prodriver
+    autoglym
+    hairspray
+    silvikrin
+    loreal
+    elvive bristow
+    toni & guy
+    harmony
+    super soft
+    elnett
+    tresemme
+    v05
+    shockwaves
+    deoderant
+    right guard
+    sure
+    lynx
+    nivea
+    dove
+    impulse
+    imperial leather addidas
+    gilette clinique
+    plastic bottles
+    plastic\nbottles general
+    shampoo bottles
+    herbal essences
+    head & shoulders
+    pantene
+    tresemme dove
+    elvive
+    alberto balsalm
+    vo5
+    drinks bottles
+    coca cola
+    sprite
+    fanta
+    squash
+    hi-juice
+    diet coke
+    diet sprite
+    diet fanta
+    club orange
+    rock shandy
+    ginger ale
+    soda wayer
+    tonic
+    lucozade
+    schweppes
+    rubico
+    innocent
+    orange juice
+    water bottles
+    detergent bottles
+    persil
+    bold
+    surf
+    ariel
+    fairy
+    daz
+    household cleaner bottles
+    dettol
+    flash
+    cif
+    mr muscle
+    sauce bottles
+    heinz
+    hp
+    colmans
+    sharwoods
+    ketchup
+    old el paso
+    cesaer
+    salad dressing
+    mayonnaise bottles
+    hellmanns
+    princes
+    ketchup bottles
+    branston
+    bleach bottles
+    domestos
+    cillit bang
+    harpic
+    zoflora
+    hard back books
+    hardback books
+    paperback books
+    soft back books
+    brown paaper
+    brown paper
+    stationery letters
+    office paper
+    tabloids
+    broadsheets
+    newspapers
+    glossy magazines
+    magazines
+    brochures
+    greeting card
+    general cards
+    christmas card
+    birthday card
+    anniversary card
+    christening card
+    wedding card
+    greeting cards
+    plain cards
+    envelopes plain
+    envelopes: no windows
+    telephone directories
+    phone books
+    catalogues
+    volumes
+    annuals
+    envelopes windows
+    envelopes with windows
+    junk mail
+    flyers
+    christmas cards
+    egg boxes cardboard
+    toilet roll tubes
+    washing powder boxes
+    washing powder box
+    frozen food boxes
+    chicken dippers
+    chicken nuggets
+    fish fingers
+    potato waffles
+    birds eye
+    donegal catch
+    kitchen roll tubes
+    goodfellas
+    frozen pizza boxes
+    chicago town
+    dr oetker
+    snacksters
+    cardboard box general
+    shoe box
+    cereal boxes
+    weetabix
+    rice crispies
+    special k
+    frosties
+    coco pops
+    alpen
+    crunchy nut cornflakes
+    cheerios
+    cornflakes
+    porridge
+    yoghurt pot (cardboard)
+    biscuit tins
+    roses
+    quality street
+    family circle
+    mc vities
+    foxes
+    cadburys
+    food tins
+    food cans
+    drinks cans
+    pepsi
+    tango
+    diet coke diet fanta
+    diet pepsi
+    diet sprit
+    e red bull
+    sweet tin
+    chocolate tin
+    celebrations
+    heroes
+    sweets tins
+    soup tins
+    baxters
+    batchelors
+    campbells
+    knorr
+    farmhouse
+    beans tins
+    tescos beans
+    cartons
+    tetrapak
+    cartons (tetrapak)
+    juice cartons
+    tropicana
+    don simon
+    rubicon
+    delmonte
+    smoothie cartion
+    milk carton
+    wine bottles
+    jacob's creek
+    pinot grigio
+    chardonnay
+    cabernet sauvignon
+    shiraz
+    wolf blass
+    glass bottles
+    beer bottles
+    budweiser
+    coors light
+    becks
+    magners
+    stella artois
+    perfume bottles
+    calvin klein
+    cerruti
+    dolce & gabanna
+    dior
+    estee lauder
+    clinique
+    light blue….
+    coffee jars
+    kenco
+    nescafe
+    maxwell house
+    jam jars
+    hartleys
+    duerrs
+    bottle top plastic
+    bottle top metal
+    jar lids metal
+    jar lids plastic
+    make up containers
+    make up containers (plastic)
+    takeaway container (plastic)
+    egg carton plastic
+    plastic food tray
+    make up containers 
+    glass
+    medicine containers
+    medicine bottles (plastic)
+    medicine bottles (glass)
+    golden cow
+    butter tub
+    flora
+    margarine tub
+    danone
+    activia
+    yoghurt pot (plastic)
+    plastic food container
+    chemicals bleach domestos
+    soda chrystals
+    oven cleaner
+    oven mate
+    chemicals
+    weedkiller
+    pathclear
+    evergreen
+    lawn feed
+    plant food
+    baby bio
+    paint
+    paint tin
+    varnish
+    yaht varnish
+    emulsion paint
+    eggshell paint
+    gloss paint
+    undercost paint
+    dulux
+    primer
+    paints
+    corwn ronseal
+    plasterboard
+    gyproc
+    gas bottles
+    screen wash
+    anti freeze car
+    brake fluid
+    fire extinguishers
+    paint thinners
+    asbestos
+    cork
+    electric blankets
+    dog poo
+    cat poo
+    rabbit poo
+    hamster poo
+    cat litter
+    dog foul
+    faeces
+    dog dirt
+    droppings
+    excrement
+    cat dirt.
+    pet litter
+    droppings
+    straw
+    animal bedding
+    pet bedding
+    sawdust
+    compostable pet bedding
+    teddy bear
+    soft toy
+    stuffed animal
+    bear
+    cuddly toy
+    stuffed toy
+    stuffed bear
+    stuffed toys

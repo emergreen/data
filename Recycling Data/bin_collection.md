@@ -1,0 +1,629 @@
+## intent:ask_bulk_lift_collection
+- When is the next bulk lift?
+- How do i book a bulky waste collection?
+- I would like to book a bulky waste collection?
+- Do you provide bulky waste collection service?
+- How can I get a Bulky waste scheduled? 
+
+## intent:ask_bin_problem
+- why was my black bin not collected?
+- why was my brown bin not collected?
+- why was my blue bin not collected?
+- why wans't my bin lifted?
+- why my bin wasn't liffted today?
+- my bin wasnt collected today?
+- my blue bin wasnt lifted today
+- my blue bin wasnt collected today
+- why weren't my bins emptied today?
+- why weren't my bins collected today?
+- My bin was not lifted
+- My bin wasn't lifted
+- how come my bin wasnt lifted
+- how come my was not collected
+- I had a problem with my bin collection
+- i had an issue with my bins while collected
+- There was a problem with my bins collection, please help
+- There was a problem with my bins collection
+
+
+## intent:ask_bin_collection
+- When is my bin going to be collected?
+- Whene will the bin be collected?
+- When my bin will be collected?
+- When is collection day for my bin?
+- When are the bins going to be collected?
+- what day is my bin collected?
+- what day is my bin lifted?
+- what day is bin collection?
+- which bin is this week?
+- Which bin is it, that should be put out, this week?
+- what day does my bin get emptied?
+- what dates is my bin lifted
+- what dates is my bins collected?
+- What colour bin do we put out this week?
+- Which bin should i put outside today?
+- What are the bins i should take outside this week?
+- Shouls i put mybins out today?
+- SHould i put my bins out this week?
+- Is bin collection today?
+- Is bin collection tomorrow?
+- when can i put my bins out
+- when can i put the bin out
+- when should i put my bins out?
+- is bin collection this week?
+- bins collection
+- bin collection
+- bin collection date
+- are bins collected this week?
+- are bins collected today?
+- what bins are collected this week?
+- When is my [grey](color) bin going to be collected ?
+- When is my [black wheelie](color) bin going to be collected ?
+- When is my [black wheeled](color) bin going to be collected ?
+- When is my [black wheely](color) bin going to be collected ?
+- When is my [black](color) bin going to be collected ?
+- When is my [grey wheelie](color) bin going to be collected ?
+- When is my [grey wheeled](color) bin going to be collected ?
+- When is my [grey wheely](color) bin going to be collected ?
+- When is my [rubbish](color) bin going to be collected ?
+- When is my [general waste](color) bin going to be collected ?
+- When is my [main](color) bin going to be collected ?
+- When is my [residual](color) bin going to be collected ?
+- When is my [recycling](color) bin going to be collected ?
+- When is my [blue wheely](color) bin going to be collected ?
+- When is my [blue wheelie](color) bin going to be collected ?
+- When is my [blue wheeled](color) bin going to be collected ?
+- When is my [blue wheeley](color) bin going to be collected ?
+- When is my [dry recycling](color) bin going to be collected ?
+- When is my [blue](color) bin going to be collected ?
+- When is my [mdr](color) bin going to be collected ?
+- When is my [mixed dry recycling](color) bin going to be collected ?
+- When is my [loose](color) bin going to be collected ?
+- When is my [food caddy](color) bin going to be collected ?
+- When is my [food](color) bin going to be collected ?
+- When is my [small brown](color) bin going to be collected ?
+- When is my [outside caddy](color) bin going to be collected ?
+- When is my [kerbside caddy](color) bin going to be collected ?
+- When is my [23L](color) bin going to be collected ?
+- When is my [food caddie](color) bin going to be collected ?
+- When is my [wee brown](color) bin going to be collected ?
+- When is my [food waste](color) bin going to be collected ?
+- When is my [food waste caddy](color) bin going to be collected ?
+- When is my [large brown](color) bin going to be collected ?
+- When is my [big brown](color) bin going to be collected ?
+- When is my [brown](color) bin going to be collected ?
+- When is my [mixed food and garden](color) bin going to be collected ?
+- When is my [comingled](color) bin going to be collected ?
+- When is my [240L brown](color) bin going to be collected ?
+- When is my [mixed food and garden waste](color) bin going to be collected ?
+- When is my [garden waste](color) bin going to be collected ?
+- When is my [green waste](color) bin going to be collected ?
+- When is my [garden](color) bin going to be collected ?
+- When is my [organic waste](color) bin going to be collected ?
+- When is my [compost](color) bin going to be collected ?
+- When is my [biodegradable](color) bin going to be collected ?
+- When is my [brown wheely](color) bin going to be collected ?
+- When is my [brown wheeley](color) bin going to be collected ?
+- When is my [brown wheelie](color) bin going to be collected ?
+- When is my [brown wheeled](color) bin going to be collected ?
+- When is my [green wheely](color) bin going to be collected ?
+- When is my [green wheeley](color) bin going to be collected ?
+- When is my [green wheelie](color) bin going to be collected ?
+- When is my [green wheeled](color) bin going to be collected ?
+- When will the [grey](color) bin be collected ?
+- When will the [black wheelie](color) bin be collected ?
+- When will the [black wheeled](color) bin be collected ?
+- When will the [black wheely](color) bin be collected ?
+- When will the [black](color) bin be collected ?
+- When will the [grey wheelie](color) bin be collected ?
+- When will the [grey wheeled](color) bin be collected ?
+- When will the [grey wheely](color) bin be collected ?
+- When will the [rubbish](color) bin be collected ?
+- When will the [general waste](color) bin be collected ?
+- When will the [main](color) bin be collected ?
+- When will the [residual](color) bin be collected ?
+- When will the [recycling](color) bin be collected ?
+- When will the [blue wheely](color) bin be collected ?
+- When will the [blue wheelie](color) bin be collected ?
+- When will the [blue wheeled](color) bin be collected ?
+- When will the [blue wheeley](color) bin be collected ?
+- When will the [dry recycling](color) bin be collected ?
+- When will the [blue](color) bin be collected ?
+- When will the [mdr](color) bin be collected ?
+- When will the [mixed dry recycling](color) bin be collected ?
+- When will the [loose](color) bin be collected ?
+- When will the [food caddy](color) bin be collected ?
+- When will the [food](color) bin be collected ?
+- When will the [small brown](color) bin be collected ?
+- When will the [outside caddy](color) bin be collected ?
+- When will the [kerbside caddy](color) bin be collected ?
+- When will the [23L](color) bin be collected ?
+- When will the [food caddie](color) bin be collected ?
+- When will the [wee brown](color) bin be collected ?
+- When will the [food waste](color) bin be collected ?
+- When will the [food waste caddy](color) bin be collected ?
+- When will the [large brown](color) bin be collected ?
+- When will the [big brown](color) bin be collected ?
+- When will the [brown](color) bin be collected ?
+- When will the [mixed food and garden](color) bin be collected ?
+- When will the [comingled](color) bin be collected ?
+- When will the [240L brown](color) bin be collected ?
+- When will the [mixed food and garden waste](color) bin be collected ?
+- When will the [garden waste](color) bin be collected ?
+- When will the [green waste](color) bin be collected ?
+- When will the [garden](color) bin be collected ?
+- When will the [organic waste](color) bin be collected ?
+- When will the [compost](color) bin be collected ?
+- When will the [biodegradable](color) bin be collected ?
+- When will the [brown wheely](color) bin be collected ?
+- When will the [brown wheeley](color) bin be collected ?
+- When will the [brown wheelie](color) bin be collected ?
+- When will the [brown wheeled](color) bin be collected ?
+- When will the [green wheely](color) bin be collected ?
+- When will the [green wheeley](color) bin be collected ?
+- When will the [green wheelie](color) bin be collected ?
+- When will the [green wheeled](color) bin be collected ?
+- When my [grey](color) bin will be collected ?
+- When my [black wheelie](color) bin will be collected ?
+- When my [black wheeled](color) bin will be collected ?
+- When my [black wheely](color) bin will be collected ?
+- When my [black](color) bin will be collected ?
+- When my [grey wheelie](color) bin will be collected ?
+- When my [grey wheeled](color) bin will be collected ?
+- When my [grey wheely](color) bin will be collected ?
+- When my [rubbish](color) bin will be collected ?
+- When my [general waste](color) bin will be collected ?
+- When my [main](color) bin will be collected ?
+- When my [residual](color) bin will be collected ?
+- When my [recycling](color) bin will be collected ?
+- When my [blue wheely](color) bin will be collected ?
+- When my [blue wheelie](color) bin will be collected ?
+- When my [blue wheeled](color) bin will be collected ?
+- When my [blue wheeley](color) bin will be collected ?
+- When my [dry recycling](color) bin will be collected ?
+- When my [blue](color) bin will be collected ?
+- When my [mdr](color) bin will be collected ?
+- When my [mixed dry recycling](color) bin will be collected ?
+- When my [loose](color) bin will be collected ?
+- When my [food caddy](color) bin will be collected ?
+- When my [food](color) bin will be collected ?
+- When my [small brown](color) bin will be collected ?
+- When my [outside caddy](color) bin will be collected ?
+- When my [kerbside caddy](color) bin will be collected ?
+- When my [23L](color) bin will be collected ?
+- When my [food caddie](color) bin will be collected ?
+- When my [wee brown](color) bin will be collected ?
+- When my [food waste](color) bin will be collected ?
+- When my [food waste caddy](color) bin will be collected ?
+- When my [large brown](color) bin will be collected ?
+- When my [big brown](color) bin will be collected ?
+- When my [brown](color) bin will be collected ?
+- When my [mixed food and garden](color) bin will be collected ?
+- When my [comingled](color) bin will be collected ?
+- When my [240L brown](color) bin will be collected ?
+- When my [mixed food and garden waste](color) bin will be collected ?
+- When my [garden waste](color) bin will be collected ?
+- When my [green waste](color) bin will be collected ?
+- When my [garden](color) bin will be collected ?
+- When my [organic waste](color) bin will be collected ?
+- When my [compost](color) bin will be collected ?
+- When my [biodegradable](color) bin will be collected ?
+- When my [brown wheely](color) bin will be collected ?
+- When my [brown wheeley](color) bin will be collected ?
+- When my [brown wheelie](color) bin will be collected ?
+- When my [brown wheeled](color) bin will be collected ?
+- When my [green wheely](color) bin will be collected ?
+- When my [green wheeley](color) bin will be collected ?
+- When my [green wheelie](color) bin will be collected ?
+- When my [green wheeled](color) bin will be collected ?
+- When is collection day for my [grey](color) bin?
+- When is collection day for my [black wheelie](color) bin?
+- When is collection day for my [black wheeled](color) bin?
+- When is collection day for my [black wheely](color) bin?
+- When is collection day for my [black](color) bin?
+- When is collection day for my [grey wheelie](color) bin?
+- When is collection day for my [grey wheeled](color) bin?
+- When is collection day for my [grey wheely](color) bin?
+- When is collection day for my [rubbish](color) bin?
+- When is collection day for my [general waste](color) bin?
+- When is collection day for my [main](color) bin?
+- When is collection day for my [residual](color) bin?
+- When is collection day for my [recycling](color) bin?
+- When is collection day for my [blue wheely](color) bin?
+- When is collection day for my [blue wheelie](color) bin?
+- When is collection day for my [blue wheeled](color) bin?
+- When is collection day for my [blue wheeley](color) bin?
+- When is collection day for my [dry recycling](color) bin?
+- When is collection day for my [blue](color) bin?
+- When is collection day for my [mdr](color) bin?
+- When is collection day for my [mixed dry recycling](color) bin?
+- When is collection day for my [loose](color) bin?
+- When is collection day for my [food caddy](color) bin?
+- When is collection day for my [food](color) bin?
+- When is collection day for my [small brown](color) bin?
+- When is collection day for my [outside caddy](color) bin?
+- When is collection day for my [kerbside caddy](color) bin?
+- When is collection day for my [23L](color) bin?
+- When is collection day for my [food caddie](color) bin?
+- When is collection day for my [wee brown](color) bin?
+- When is collection day for my [food waste](color) bin?
+- When is collection day for my [food waste caddy](color) bin?
+- When is collection day for my [large brown](color) bin?
+- When is collection day for my [big brown](color) bin?
+- When is collection day for my [brown](color) bin?
+- When is collection day for my [mixed food and garden](color) bin?
+- When is collection day for my [comingled](color) bin?
+- When is collection day for my [240L brown](color) bin?
+- When is collection day for my [mixed food and garden waste](color) bin?
+- When is collection day for my [garden waste](color) bin?
+- When is collection day for my [green waste](color) bin?
+- When is collection day for my [garden](color) bin?
+- When is collection day for my [organic waste](color) bin?
+- When is collection day for my [compost](color) bin?
+- When is collection day for my [biodegradable](color) bin?
+- When is collection day for my [brown wheely](color) bin?
+- When is collection day for my [brown wheeley](color) bin?
+- When is collection day for my [brown wheelie](color) bin?
+- When is collection day for my [brown wheeled](color) bin?
+- When is collection day for my [green wheely](color) bin?
+- When is collection day for my [green wheeley](color) bin?
+- When is collection day for my [green wheelie](color) bin?
+- When is collection day for my [green wheeled](color) bin?
+- When is collection day for my [grey](color)?
+- When is collection day for my [black wheelie](color)?
+- When is collection day for my [black wheeled](color)?
+- When is collection day for my [black wheely](color)?
+- When is collection day for my [black](color)?
+- When is collection day for my [grey wheelie](color)?
+- When is collection day for my [grey wheeled](color)?
+- When is collection day for my [grey wheely](color)?
+- When is collection day for my [rubbish](color)?
+- When is collection day for my [general waste](color)?
+- When is collection day for my [main](color)?
+- When is collection day for my [residual](color)?
+- When is collection day for my [recycling](color)?
+- When is collection day for my [blue wheely](color)?
+- When is collection day for my [blue wheelie](color)?
+- When is collection day for my [blue wheeled](color)?
+- When is collection day for my [blue wheeley](color)?
+- When is collection day for my [dry recycling](color)?
+- When is collection day for my [blue](color)?
+- When is collection day for my [mdr](color)?
+- When is collection day for my [mixed dry recycling](color)?
+- When is collection day for my [loose](color)?
+- When is collection day for my [food caddy](color)?
+- When is collection day for my [food](color)?
+- When is collection day for my [small brown](color)?
+- When is collection day for my [outside caddy](color)?
+- When is collection day for my [kerbside caddy](color)?
+- When is collection day for my [23L](color)?
+- When is collection day for my [food caddie](color)?
+- When is collection day for my [wee brown](color)?
+- When is collection day for my [food waste](color)?
+- When is collection day for my [food waste caddy](color)?
+- When is collection day for my [large brown](color)?
+- When is collection day for my [big brown](color)?
+- When is collection day for my [brown](color)?
+- When is collection day for my [mixed food and garden](color)?
+- When is collection day for my [comingled](color)?
+- When is collection day for my [240L brown](color)?
+- When is collection day for my [mixed food and garden waste](color)?
+- When is collection day for my [garden waste](color)?
+- When is collection day for my [green waste](color)?
+- When is collection day for my [garden](color)?
+- When is collection day for my [organic waste](color)?
+- When is collection day for my [compost](color)?
+- When is collection day for my [biodegradable](color)?
+- When is collection day for my [brown wheely](color)?
+- When is collection day for my [brown wheeley](color)?
+- When is collection day for my [brown wheelie](color)?
+- When is collection day for my [brown wheeled](color)?
+- When is collection day for my [green wheely](color)?
+- When is collection day for my [green wheeley](color)?
+- When is collection day for my [green wheelie](color)?
+- When is collection day for my [green wheeled](color)?
+- When are the [grey](color) bins going to be collected?
+- When are the [black wheelie](color) bins going to be collected?
+- When are the [black wheeled](color) bins going to be collected?
+- When are the [black wheely](color) bins going to be collected?
+- When are the [black](color) bins going to be collected?
+- When are the [grey wheelie](color) bins going to be collected?
+- When are the [grey wheeled](color) bins going to be collected?
+- When are the [grey wheely](color) bins going to be collected?
+- When are the [rubbish](color) bins going to be collected?
+- When are the [general waste](color) bins going to be collected?
+- When are the [main](color) bins going to be collected?
+- When are the [residual](color) bins going to be collected?
+- When are the [recycling](color) bins going to be collected?
+- When are the [blue wheely](color) bins going to be collected?
+- When are the [blue wheelie](color) bins going to be collected?
+- When are the [blue wheeled](color) bins going to be collected?
+- When are the [blue wheeley](color) bins going to be collected?
+- When are the [dry recycling](color) bins going to be collected?
+- When are the [blue](color) bins going to be collected?
+- When are the [mdr](color) bins going to be collected?
+- When are the [mixed dry recycling](color) bins going to be collected?
+- When are the [loose](color) bins going to be collected?
+- When are the [food caddy](color) bins going to be collected?
+- When are the [food](color) bins going to be collected?
+- When are the [small brown](color) bins going to be collected?
+- When are the [outside caddy](color) bins going to be collected?
+- When are the [kerbside caddy](color) bins going to be collected?
+- When are the [23L](color) bins going to be collected?
+- When are the [food caddie](color) bins going to be collected?
+- When are the [wee brown](color) bins going to be collected?
+- When are the [food waste](color) bins going to be collected?
+- When are the [food waste caddy](color) bins going to be collected?
+- When are the [large brown](color) bins going to be collected?
+- When are the [big brown](color) bins going to be collected?
+- When are the [brown](color) bins going to be collected?
+- When are the [mixed food and garden](color) bins going to be collected?
+- When are the [comingled](color) bins going to be collected?
+- When are the [240L brown](color) bins going to be collected?
+- When are the [mixed food and garden waste](color) bins going to be collected?
+- When are the [garden waste](color) bins going to be collected?
+- When are the [green waste](color) bins going to be collected?
+- When are the [garden](color) bins going to be collected?
+- When are the [organic waste](color) bins going to be collected?
+- When are the [compost](color) bins going to be collected?
+- When are the [biodegradable](color) bins going to be collected?
+- When are the [brown wheely](color) bins going to be collected?
+- When are the [brown wheeley](color) bins going to be collected?
+- When are the [brown wheelie](color) bins going to be collected?
+- When are the [brown wheeled](color) bins going to be collected?
+- When are the [green wheely](color) bins going to be collected?
+- When are the [green wheeley](color) bins going to be collected?
+- When are the [green wheelie](color) bins going to be collected?
+- When are the [green wheeled](color) bins going to be collected?
+- what day is my [grey](color) bin collected?
+- what day is my [black wheelie](color) bin collected?
+- what day is my [black wheeled](color) bin collected?
+- what day is my [black wheely](color) bin collected?
+- what day is my [black](color) bin collected?
+- what day is my [grey wheelie](color) bin collected?
+- what day is my [grey wheeled](color) bin collected?
+- what day is my [grey wheely](color) bin collected?
+- what day is my [rubbish](color) bin collected?
+- what day is my [general waste](color) bin collected?
+- what day is my [main](color) bin collected?
+- what day is my [residual](color) bin collected?
+- what day is my [recycling](color) bin collected?
+- what day is my [blue wheely](color) bin collected?
+- what day is my [blue wheelie](color) bin collected?
+- what day is my [blue wheeled](color) bin collected?
+- what day is my [blue wheeley](color) bin collected?
+- what day is my [dry recycling](color) bin collected?
+- what day is my [blue](color) bin collected?
+- what day is my [mdr](color) bin collected?
+- what day is my [mixed dry recycling](color) bin collected?
+- what day is my [loose](color) bin collected?
+- what day is my [food caddy](color) bin collected?
+- what day is my [food](color) bin collected?
+- what day is my [small brown](color) bin collected?
+- what day is my [outside caddy](color) bin collected?
+- what day is my [kerbside caddy](color) bin collected?
+- what day is my [23L](color) bin collected?
+- what day is my [food caddie](color) bin collected?
+- what day is my [wee brown](color) bin collected?
+- what day is my [food waste](color) bin collected?
+- what day is my [food waste caddy](color) bin collected?
+- what day is my [large brown](color) bin collected?
+- what day is my [big brown](color) bin collected?
+- what day is my [brown](color) bin collected?
+- what day is my [mixed food and garden](color) bin collected?
+- what day is my [comingled](color) bin collected?
+- what day is my [240L brown](color) bin collected?
+- what day is my [mixed food and garden waste](color) bin collected?
+- what day is my [garden waste](color) bin collected?
+- what day is my [green waste](color) bin collected?
+- what day is my [garden](color) bin collected?
+- what day is my [organic waste](color) bin collected?
+- what day is my [compost](color) bin collected?
+- what day is my [biodegradable](color) bin collected?
+- what day is my [brown wheely](color) bin collected?
+- what day is my [brown wheeley](color) bin collected?
+- what day is my [brown wheelie](color) bin collected?
+- what day is my [brown wheeled](color) bin collected?
+- what day is my [green wheely](color) bin collected?
+- what day is my [green wheeley](color) bin collected?
+- what day is my [green wheelie](color) bin collected?
+- what day is my [green wheeled](color) bin collected?
+- what day is my [grey](color) bin lifted?
+- what day is my [black wheelie](color) bin lifted?
+- what day is my [black wheeled](color) bin lifted?
+- what day is my [black wheely](color) bin lifted?
+- what day is my [black](color) bin lifted?
+- what day is my [grey wheelie](color) bin lifted?
+- what day is my [grey wheeled](color) bin lifted?
+- what day is my [grey wheely](color) bin lifted?
+- what day is my [rubbish](color) bin lifted?
+- what day is my [general waste](color) bin lifted?
+- what day is my [main](color) bin lifted?
+- what day is my [residual](color) bin lifted?
+- what day is my [recycling](color) bin lifted?
+- what day is my [blue wheely](color) bin lifted?
+- what day is my [blue wheelie](color) bin lifted?
+- what day is my [blue wheeled](color) bin lifted?
+- what day is my [blue wheeley](color) bin lifted?
+- what day is my [dry recycling](color) bin lifted?
+- what day is my [blue](color) bin lifted?
+- what day is my [mdr](color) bin lifted?
+- what day is my [mixed dry recycling](color) bin lifted?
+- what day is my [loose](color) bin lifted?
+- what day is my [food caddy](color) bin lifted?
+- what day is my [food](color) bin lifted?
+- what day is my [small brown](color) bin lifted?
+- what day is my [outside caddy](color) bin lifted?
+- what day is my [kerbside caddy](color) bin lifted?
+- what day is my [23L](color) bin lifted?
+- what day is my [food caddie](color) bin lifted?
+- what day is my [wee brown](color) bin lifted?
+- what day is my [food waste](color) bin lifted?
+- what day is my [food waste caddy](color) bin lifted?
+- what day is my [large brown](color) bin lifted?
+- what day is my [big brown](color) bin lifted?
+- what day is my [brown](color) bin lifted?
+- what day is my [mixed food and garden](color) bin lifted?
+- what day is my [comingled](color) bin lifted?
+- what day is my [240L brown](color) bin lifted?
+- what day is my [mixed food and garden waste](color) bin lifted?
+- what day is my [garden waste](color) bin lifted?
+- what day is my [green waste](color) bin lifted?
+- what day is my [garden](color) bin lifted?
+- what day is my [organic waste](color) bin lifted?
+- what day is my [compost](color) bin lifted?
+- what day is my [biodegradable](color) bin lifted?
+- what day is my [brown wheely](color) bin lifted?
+- what day is my [brown wheeley](color) bin lifted?
+- what day is my [brown wheelie](color) bin lifted?
+- what day is my [brown wheeled](color) bin lifted?
+- what day is my [green wheely](color) bin lifted?
+- what day is my [green wheeley](color) bin lifted?
+- what day is my [green wheelie](color) bin lifted?
+- what day is my [green wheeled](color) bin lifted?
+- what day does my [grey](color) bin get emptied?
+- what day does my [black wheelie](color) bin get emptied?
+- what day does my [black wheeled](color) bin get emptied?
+- what day does my [black wheely](color) bin get emptied?
+- what day does my [black](color) bin get emptied?
+- what day does my [grey wheelie](color) bin get emptied?
+- what day does my [grey wheeled](color) bin get emptied?
+- what day does my [grey wheely](color) bin get emptied?
+- what day does my [rubbish](color) bin get emptied?
+- what day does my [general waste](color) bin get emptied?
+- what day does my [main](color) bin get emptied?
+- what day does my [residual](color) bin get emptied?
+- what day does my [recycling](color) bin get emptied?
+- what day does my [blue wheely](color) bin get emptied?
+- what day does my [blue wheelie](color) bin get emptied?
+- what day does my [blue wheeled](color) bin get emptied?
+- what day does my [blue wheeley](color) bin get emptied?
+- what day does my [dry recycling](color) bin get emptied?
+- what day does my [blue](color) bin get emptied?
+- what day does my [mdr](color) bin get emptied?
+- what day does my [mixed dry recycling](color) bin get emptied?
+- what day does my [loose](color) bin get emptied?
+- what day does my [food caddy](color) bin get emptied?
+- what day does my [food](color) bin get emptied?
+- what day does my [small brown](color) bin get emptied?
+- what day does my [outside caddy](color) bin get emptied?
+- what day does my [kerbside caddy](color) bin get emptied?
+- what day does my [23L](color) bin get emptied?
+- what day does my [food caddie](color) bin get emptied?
+- what day does my [wee brown](color) bin get emptied?
+- what day does my [food waste](color) bin get emptied?
+- what day does my [food waste caddy](color) bin get emptied?
+- what day does my [large brown](color) bin get emptied?
+- what day does my [big brown](color) bin get emptied?
+- what day does my [brown](color) bin get emptied?
+- what day does my [mixed food and garden](color) bin get emptied?
+- what day does my [comingled](color) bin get emptied?
+- what day does my [240L brown](color) bin get emptied?
+- what day does my [mixed food and garden waste](color) bin get emptied?
+- what day does my [garden waste](color) bin get emptied?
+- what day does my [green waste](color) bin get emptied?
+- what day does my [garden](color) bin get emptied?
+- what day does my [organic waste](color) bin get emptied?
+- what day does my [compost](color) bin get emptied?
+- what day does my [biodegradable](color) bin get emptied?
+- what day does my [brown wheely](color) bin get emptied?
+- what day does my [brown wheeley](color) bin get emptied?
+- what day does my [brown wheelie](color) bin get emptied?
+- what day does my [brown wheeled](color) bin get emptied?
+- what day does my [green wheely](color) bin get emptied?
+- what day does my [green wheeley](color) bin get emptied?
+- what day does my [green wheelie](color) bin get emptied?
+- what day does my [green wheeled](color) bin get emptied?
+- when should i put out my [grey](color) bin?
+- when should i put out my [black wheelie](color) bin?
+- when should i put out my [black wheeled](color) bin?
+- when should i put out my [black wheely](color) bin?
+- when should i put out my [black](color) bin?
+- when should i put out my [grey wheelie](color) bin?
+- when should i put out my [grey wheeled](color) bin?
+- when should i put out my [grey wheely](color) bin?
+- when should i put out my [rubbish](color) bin?
+- when should i put out my [general waste](color) bin?
+- when should i put out my [main](color) bin?
+- when should i put out my [residual](color) bin?
+- when should i put out my [recycling](color) bin?
+- when should i put out my [blue wheely](color) bin?
+- when should i put out my [blue wheelie](color) bin?
+- when should i put out my [blue wheeled](color) bin?
+- when should i put out my [blue wheeley](color) bin?
+- when should i put out my [dry recycling](color) bin?
+- when should i put out my [blue](color) bin?
+- when should i put out my [mdr](color) bin?
+- when should i put out my [mixed dry recycling](color) bin?
+- when should i put out my [loose](color) bin?
+- when should i put out my [food caddy](color) bin?
+- when should i put out my [food](color) bin?
+- when should i put out my [small brown](color) bin?
+- when should i put out my [outside caddy](color) bin?
+- when should i put out my [kerbside caddy](color) bin?
+- when should i put out my [23L](color) bin?
+- when should i put out my [food caddie](color) bin?
+- when should i put out my [wee brown](color) bin?
+- when should i put out my [food waste](color) bin?
+- when should i put out my [food waste caddy](color) bin?
+- when should i put out my [large brown](color) bin?
+- when should i put out my [big brown](color) bin?
+- when should i put out my [brown](color) bin?
+- when should i put out my [mixed food and garden](color) bin?
+- when should i put out my [comingled](color) bin?
+- when should i put out my [240L brown](color) bin?
+- when should i put out my [mixed food and garden waste](color) bin?
+- when should i put out my [garden waste](color) bin?
+- when should i put out my [green waste](color) bin?
+- when should i put out my [garden](color) bin?
+- when should i put out my [organic waste](color) bin?
+- when should i put out my [compost](color) bin?
+- when should i put out my [biodegradable](color) bin?
+- when should i put out my [brown wheely](color) bin?
+- when should i put out my [brown wheeley](color) bin?
+- when should i put out my [brown wheelie](color) bin?
+- when should i put out my [brown wheeled](color) bin?
+- when should i put out my [green wheely](color) bin?
+- when should i put out my [green wheeley](color) bin?
+- when should i put out my [green wheelie](color) bin?
+- when should i put out my [green wheeled](color) bin?
+
+
+
+
+## intent:ask_when_are_bins_collected_during_christmas
+- When is my black bin going to be collected over xmas
+- When is my blue bin going to be collected over xmas
+- What are the bin collection schedule during Christmas
+- Will there be a change to the bin collection dates over Christmas
+- When will the bins be lifted during xmas
+- When is the bins being emptied over xmas
+- Whats the bin xmas bin collection schedule
+- When is my black bin going to be collected for xmas
+- When is my blue bin going to be collected over xmas
+- What are the bin collection schedule during Christmas
+- How are bins going to be collected over Christmas
+- How  will the bins be lifted during xmas
+- How is the bins being emptied over xmas
+- How is the bin xmas bin collection schedule
+
+
+## intent:ask_bin_calendar
+- can I get a bin calendar
+- I need a calendar
+- I want a calendar
+- where can I get the bin collection calendar
+- I want a 2021 calendar
+- how to I get a 2021 calendar
+- is there a bin collection calendar
+- is there a link to a bin schedule
+- is there a link to the bin calendar
+- can you send me a bin collection calendar
+- may i get a bin calendar
+- may i get a bin schedule
+- please show me a bin calendar
+- send me a bin schedule 
+- give me a bin calendar
+- can you provide me with a bin calendar?
+- Collection Schedule
+ 
